@@ -1,0 +1,120 @@
+{
+  "project": "moonshot-previz",
+  "mode": "previz-stills-only",
+  "aspect": "16:9",
+  "still_model": "nano_banana_pro (runs as nano_banana_2; multiple reference images; 2 credits per image)",
+  "video_model": "none — producer animates by hand",
+  "budget": {
+    "max_gens": 50,
+    "note": "40 used through batch 2 (hero, 7 scenes, 2 redos). 10 left for final redos."
+  },
+  "status": "v7 — producer notes: no freeze frames anywhere, S01 zoom shortened, S04 card earlier, S06 card removed, S07 card earlier with new wording",
+  "hero_character": {
+    "approved": "stills/H00_v2.png",
+    "job_id": "a80aca6c-6ec1-44b7-ab8b-2bf580cfa799",
+    "description": "ordinary white man, early 30s, short dark brown hair, average build, heather grey crew-neck t-shirt",
+    "note": "PREVIZ SHORTCUT ONLY. One hero carries every scene. Not the production method."
+  },
+  "product_reference": {
+    "file": "assets/product_01_both_finishes.png",
+    "media_id": "8ee8b1e3-2314-4caa-bb47-b0fd7dfdc851"
+  },
+  "product_clause": "a small rectangular pendant with rounded corners at upper chest, metallic gold finish, flowing wave texture across its lower front, a small camera lens at the top left, hanging on a thin black braided cord, matching the attached product reference exactly",
+  "moonshot_working_cue": "Nothing generated. The Ask line is a text overlay in assembly. Where the device acts on its own (S02) the overlay carries it.",
+  "overlay_convention": "Internal previz: 1 s label card before each clip; S02 notification caption while he reads; Moonshot reply caption a beat after each ask, with a short freeze-frame hold so it can be read.",
+  "transitions": "Simple cuts.",
+  "variants_per_shot": 4,
+  "shots": [
+    {
+      "id": "S01",
+      "scenario": 1,
+      "half": "in the moment",
+      "action": "Two people outside on a residential street by a doorway, mid-conversation. The hero is saying he'll help on Saturday. Hands loose and gestural, the way people talk when saying something casual they'll forget",
+      "camera": "medium two-shot, eye level, slightly off axis",
+      "ask": null,
+      "overlay": null,
+      "notes": "No ask. He says it and forgets it. The device catches it. Friend is generic.",
+      "label": "1 · Follow-through · Tuesday"
+    },
+    {
+      "id": "S02",
+      "scenario": 1,
+      "half": "context",
+      "action": "The hero alone a few days later, coming in through his front door, keys in one hand, phone in the other",
+      "camera": "medium, from inside the hallway, eye level",
+      "ask": null,
+      "overlay": null,
+      "notes": "No ask. It surfaces on its own. Jacket over the t-shirt to sell time passing.",
+      "label": "1 · Follow-through · Friday",
+      "reply": "You told Tario you'd help him move. That was Tuesday.",
+      "reply_at": 2.8,
+      "hold": 0
+    },
+    {
+      "id": "S03",
+      "scenario": 2,
+      "half": "in the moment",
+      "action": "Kitchen. Steak in the pan, tongs in the hero's hand, leaning over it",
+      "camera": "medium, slightly above hob height, angled down",
+      "ask": "\"Is this ready to flip?\"",
+      "overlay": null,
+      "notes": "",
+      "label": "2 · Learns from you · March",
+      "reply": "Not yet. Give it another minute.",
+      "reply_at": 3.2,
+      "hold": 0,
+      "reply_note": "Line drafted by the agent on the producer's request for a card here; producer to confirm wording."
+    },
+    {
+      "id": "S04",
+      "scenario": 2,
+      "half": "context",
+      "action": "Same kitchen, weeks later. Raw steak on a board on the counter, the hero standing back from the hob, both hands empty",
+      "camera": "medium, eye level, hob and board in frame",
+      "ask": "\"How do I not overcook this again?\"",
+      "overlay": null,
+      "notes": "",
+      "label": "2 · Learns from you · Weeks later",
+      "reply": "Last time it sat eleven minutes. You flipped it once, late.",
+      "reply_at": 3.0,
+      "hold": 0
+    },
+    {
+      "id": "S05",
+      "scenario": 3,
+      "half": "in the moment",
+      "action": "Living room. An older woman at an upright piano, mid-story. The hero a step away, standing, listening, hands at his sides",
+      "camera": "medium wide, eye level, afternoon light",
+      "ask": "\"Save this.\"",
+      "overlay": null,
+      "notes": "Quietest frame. No phone.",
+      "label": "3 · Keeps the moment · Sunday"
+    },
+    {
+      "id": "S06",
+      "scenario": 3,
+      "half": "context",
+      "action": "The hero alone in front of a framed photo on a wall, close enough to be looking at one thing, hands at his sides",
+      "camera": "medium close, over the shoulder toward the wall, photo soft",
+      "ask": "\"What happened right after this?\"",
+      "overlay": null,
+      "notes": "No phone. The framed photo must be a snapshot of the S05 moment: attach the approved S05 still as a third reference (@photo). Runs after S05 is picked. No card: the audience assumes the recall. Producer decision.",
+      "depends_on": "S05",
+      "label": "3 · Keeps the moment · Years later"
+    },
+    {
+      "id": "S07",
+      "scenario": 4,
+      "half": "finale",
+      "action": "The hero at a desk, stressed, work spread in front of him, laptop open, papers. He has stopped, hands still, looking at nothing in particular",
+      "camera": "medium, slightly high angle across the desk",
+      "ask": "\"How can I use my time better?\"",
+      "overlay": null,
+      "notes": "Stress as body: shoulders up, hand near face or flat on the desk. Not a caricature.",
+      "label": "4 · Sees the pattern · Months in",
+      "reply": "You get less done on the days you skip the walk.\nGo first thing in the morning.",
+      "reply_at": 2.8,
+      "hold": 0
+    }
+  ]
+}

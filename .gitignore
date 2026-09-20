@@ -1,0 +1,32 @@
+# Media stays out of git. The repo holds decisions, not pixels.
+projects/**/*.png
+projects/**/*.jpg
+projects/**/*.jpeg
+projects/**/*.webp
+projects/**/*.mp4
+projects/**/*.mov
+projects/**/*.wav
+projects/**/*.mp3
+projects/**/previz/
+projects/**/stills/sheets/
+projects/**/video/takes/
+
+# Keep decisions and small text
+!projects/**/*.json
+!projects/**/*.md
+!projects/**/*.otio
+!projects/**/*.html
+!projects/**/*.txt
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+.claude/settings.local.json
+
+# OS and editor noise
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc

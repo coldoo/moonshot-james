@@ -1,0 +1,24 @@
+{
+  "project": "moonshot-previz",
+  "updated": "2026-09-20",
+  "hero": { "file": "stills/H00_v2.png", "job_id": "a80aca6c-6ec1-44b7-ab8b-2bf580cfa799" },
+  "video_selects": {
+    "S01": { "file": "video/takes/S01_take3.mp4", "job_id": "67f838c6-9905-4886-8179-7cf133b0cf8c", "status": "approved" },
+    "S02": { "file": "video/takes/S02_take3.mp4", "job_id": "3458fa50-fab3-43a0-8bbc-9fee41550b7b", "status": "approved" },
+    "S03": { "file": "video/takes/S03_take2.mp4", "job_id": "1171fff3-b602-407a-ab3b-b65c4f2dcc46", "status": "approved" },
+    "S04": { "file": "video/takes/S04_take2.mp4", "job_id": "80061093-39bd-46d4-bc6b-2ac748254615", "status": "approved", "flag": "close-up is in a different kitchen; producer chose it anyway, offered redo" },
+    "S05": { "file": "video/takes/S05b_take2.mp4", "job_id": "ef760540-cb06-4710-8db4-fe3312aa9f0c", "status": "approved" },
+    "S06": { "file": "video/takes/S06c_take3.mp4", "job_id": "f2507c30-1571-4002-bbe5-852d1b69f7f2", "status": "approved", "note": "v3, framed photo visible in the reverse angle" },
+    "S07": { "file": "video/takes/S07b_take2.mp4", "job_id": "cdbbe866-ea96-41f0-bb63-9509a4c768dc", "status": "approved" }
+  },
+  "selects": {
+    "S01": { "file": "stills/S01_v3.png", "job_id": "efba9d19-9b93-4729-8497-5c90cc21ee64", "status": "approved" },
+    "S02": { "file": "stills/S02_v2.png", "job_id": "42517caa-ebac-45e0-8927-01f07dcb7e26", "status": "approved" },
+    "S03": { "file": "stills/S03_v2.png", "job_id": "c96e2724-d5a0-4d7c-83d5-bda29d2abdff", "status": "approved", "note": "looking directly at the steak" },
+    "S04": { "file": "stills/S04b_v4.png", "job_id": "41108592-175d-41b3-aaea-9f7aff9557d4", "status": "approved", "note": "redo in S03 kitchen" },
+    "S05": { "file": "stills/S05_v4.png", "job_id": "e5aa250f-7e70-4eed-a099-5222768fef43", "status": "approved" },
+    "S05pov": { "status": "generated, not needed", "note": "4 variants in stills/S05pov_v1..4. v1 and v4 clean. v2 rendered the pendant itself in the foreground, which is physically wrong for a POV shot. Kept for reference." },
+    "S06": { "file": "stills/S06_producer.png", "status": "approved", "source": "supplied by producer 2026-09-20", "note": "Hero from behind, framed photo is the pendant's POV of grandma alone at the piano. 1376x768, lower res than the other stills; fine for previz." },
+    "S07": { "file": "stills/S07b_v3.png", "job_id": "7e245085-958e-4805-beb8-099a53a34764", "status": "approved", "note": "redo at night" }
+  }
+}

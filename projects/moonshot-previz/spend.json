@@ -1,0 +1,92 @@
+{
+  "project": "moonshot-previz",
+  "budget_max_gens": 20,
+  "credits_start": 4886.5,
+  "entries": [
+    {
+      "date": "2026-09-20",
+      "shot": "H00",
+      "model": "nano_banana_pro (runs as nano_banana_2)",
+      "count": 4,
+      "credits": 8,
+      "result": "all 4 usable, pendant accurate in all, same face across variants",
+      "job_ids": [
+        "020e63f5-6114-45a6-914b-742f2b229fff",
+        "a80aca6c-6ec1-44b7-ab8b-2bf580cfa799",
+        "419b141f-ea2d-4b83-9543-c41aa637582b",
+        "f2788e05-3b68-4156-bfbb-514d09cf7fe1"
+      ]
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S01,S02,S03,S04,S05,S07",
+      "model": "nano_banana_pro (runs as nano_banana_2)",
+      "count": 24,
+      "credits": 48,
+      "result": "24 of 24 completed, 0 failed. Awaiting producer picks.",
+      "references": ["H00_v2 job a80aca6c-6ec1-44b7-ab8b-2bf580cfa799", "product media 8ee8b1e3-2314-4caa-bb47-b0fd7dfdc851"]
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S04 redo (same kitchen), S06 (photo of S05_v4), S07 redo (night)",
+      "model": "nano_banana_pro (runs as nano_banana_2)",
+      "count": 12,
+      "credits": 24,
+      "result": "12 of 12 completed, 0 failed. Awaiting producer picks.",
+      "references": ["hero H00_v2", "product", "S03_v2 as kitchen ref for S04", "S05_v4 as photo ref for S06"]
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S05pov (pendant POV of grandma, for S06 photo)",
+      "model": "nano_banana_pro (runs as nano_banana_2)",
+      "count": 4,
+      "credits": 8,
+      "result": "4 of 4 completed. v2 drew the pendant in the foreground of its own POV. Superseded: producer supplied S06 directly, so the S06 redo batch was not run."
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S01, S02 video, 3 takes each",
+      "model": "minimax_h3_max 768p 8s, batch_size 3, all three images as image_references (start frame labelled in prompt)",
+      "count": 6,
+      "credits": 120,
+      "result": "6 of 6 completed with audio. Awaiting producer review.",
+      "note": "MiniMax H3 Max rejects start_image mixed with image_references (422). Workaround: pass the start frame as the first image_reference and label it in the prompt. Higgsfield preset nudge ('IN THE DARK') must be declined via declined_preset_id."
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S03, S04, S05, S06, S07 video, 3 takes each",
+      "model": "minimax_h3_max 768p, 8s (S03,S04,S07) and 6s (S05,S06), batch_size 3, three-image reference approach",
+      "count": 15,
+      "credits": 270,
+      "result": "15 of 15 completed. Awaiting producer review.",
+      "media": "S06 start frame uploaded as media 18c67f69-4f47-4857-9621-a4665ad8af4e"
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S05, S06, S07 redo v2, 3 takes each",
+      "model": "minimax_h3_max 768p, 6s/6s/8s, batch_size 3, tightened negatives and eyeline",
+      "count": 9,
+      "credits": 150,
+      "result": "9 of 9 completed. Awaiting producer review."
+    }
+    ,
+    {
+      "date": "2026-09-20",
+      "shot": "S06 redo v3, 3 takes, exact line pinned as clear English",
+      "model": "minimax_h3_max 768p 6s, batch_size 3",
+      "count": 3,
+      "credits": 45,
+      "result": "3 of 3 completed. Awaiting producer review of the line read."
+    }
+  ],
+  "gens_used": 77,
+  "credits_used": 673,
+  "stills_stage": "COMPLETE 2026-09-20. All seven scenes have an approved still.",
+  "product_media_id": "8ee8b1e3-2314-4caa-bb47-b0fd7dfdc851"
+}
