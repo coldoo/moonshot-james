@@ -39,22 +39,27 @@ end your turn. Never proceed past a checkpoint on your own, even if the task pro
 When the producer asks for a **previz**, **scrappy previz**, or **concept pass**, the goal is
 to show the idea, not to make it look good. Previz mode overrides the quality rules below:
 
-- Start frames come from **Nano Banana 2** (image model), one still per shot, using the
-  product assets in `projects/<name>/assets/` as reference so the necklace reads correctly.
-  Then image-to-video, one variant per shot, cheapest video model in the catalog.
-- No character reference, no continuity chaining. Drift is fine. Wrong faces are fine.
-  The only thing that must be right is the product.
-- Checkpoints: the shotlist, then the **stills contact sheet** before any video is generated.
-  Stills are cheap, video is not. Never animate a still the producer has not seen.
-- The producer may choose to animate stills by hand instead. In that case the agent stops
-  after the stills checkpoint, the producer drops clips into `projects/<name>/clips/<shot-id>.mp4`,
-  and the agent resumes at assembly. Stills the producer did not animate are cut in as
-  stills with a slow zoom.
-- Output is one stitched file in shotlist order with a shot-id slate before each cut, VO
-  draft underneath if one exists. Text overlays (dialogue, product responses) are burned in
-  with ffmpeg from the shotlist `overlay` field, never generated into the image.
-  Slow motion can be faked with a plain ffmpeg speed change.
-- Do not write to `references/prompts/`. Previz prompts are not reference quality.
+The full procedure that worked on the Moonshot previz is `skills/previz/SKILL.md`. Follow it.
+The short version:
+
+- **One hero character** generated first in a neutral setting wearing the product. That
+  still validates the product and becomes the character reference for every scene. Previz
+  shortcut only; production uses proper character sheets.
+- **Start frames** on Nano Banana Pro (`nano_banana_pro`, 2 credits), 4 variants per scene,
+  hero still + product image attached as references. Producer picks one per scene.
+- **Video** on MiniMax H3 Max (`minimax_h3_max`, 768p, 20 credits per 8 s), 3 takes per
+  scene via `batch_size`. The model refuses a start frame mixed with references, so the
+  start frame goes in as the FIRST reference and the prompt labels all three: "Image 1 is
+  the STARTING FRAME, Image 2 is THE MAN, Image 3 is THE PRODUCT." Prompt shape:
+  REFERENCES, SUMMARY, TIMESTAMPS, GENERAL RULES, SETTING. Spoken lines go in the
+  timestamps in quotes; native audio performs them.
+- Checkpoints: shotlist, stills contact sheet, then video takes per scene. Stills are
+  cheap, video is not. Never animate a still the producer has not seen.
+- Assembly with `scripts/assemble.py`: clean cuts, light trims, translucent label tag over
+  the first seconds of each clip, Moonshot reply captions from the shotlist `reply` field.
+  No black cards, no freeze frames unless asked. Text is never generated into frame.
+- Do not write to `references/prompts/`. Previz prompts are not reference quality. Model
+  behaviour notes DO go in `references/<model>.md`.
 
 Previz outputs live in `projects/<name>/previz/` and are never used as production shots.
 
