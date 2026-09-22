@@ -1,7 +1,7 @@
 # Moonshot Launch Video Preview: P0 brief
 
 Format follows `references/external/moonshot-films/workflow/PRODUCTION-STAGES.md` P0. Provenance
-tags per that repo's rule. Stage reported: **P0 in progress; P1 routed; P2 to P6 not started.**
+tags per that repo's rule. Stage reported: **P0 closed 2026-09-22 (decisions below); P1 routed; P2 cast: Dylan lock exists, reuse; P3 pendant sheet v3 silver exists, reuse; P4 plates: not started, [NEED: real-place photos]; P5, P6 not started.**
 
 ```
 PIECE          one launch video preview, presenter to camera, general audience. 35 to 45 s spoken
@@ -42,7 +42,15 @@ for the presenter (AGENTS.md identity rule 2026-09-22) · who is in it: one pers
 cut · length: one film cut from START-to-END shots · object: a real object we own, prop sheet from
 the product page · rails: Melius for sheets, plates and frames; Seedance 2.5 for video.
 
-## Presenter identity [OPEN, blocking P2]
+## Decisions 2026-09-22 [DYLAN via producer]
+- Presenter: Dylan, via face lock v3.1 A (Melius V6 canvas node 20c54436, APPROVED 09-21) and SHEET v3 Dylan + silver pendant (node 65930b52). Start with these; a real-camera pass can replace frames later.
+- Lane: photoreal.
+- Product truth: any of the four finishes is fine. Using SILVER (PRODUCT SHEET v3, node 9962e55d) because the Dylan sheet already carries it.
+- Price line: a pop-up on screen only, not narrative. Still subject to the no-price-in-copy canon; kept as [OPEN: price line] on the card.
+- Use case A: something simple, instantly recognisable, that uses the VIDEO layer (the camera). Use case B: a later ask that recalls what Moonshot snapshotted; the recall is the image or the context behind it. Exact pick: [OPEN], three options in the cut map.
+- Melius credits: unknown, assumed sufficient. Nano Banana Pro is 188 Melius credits per image; Seedance 2.5 on Melius is 170 to 284 per second, so video stays on Higgsfield Seedance 2.5 per the repo's routing.
+
+## Presenter identity [CLOSED: Dylan]
 The repo rules (AGENTS.md, 2026-09-22): realistic human imagery needs a traceable real camera frame
 and an original human identity source; a generated face lock is an aid, not a substitute. The
 previz hero is a generated face with no real source. Options:
@@ -60,3 +68,13 @@ A must be a moment captured live with nothing asked; B must recall that exact mo
    it is the only pair that shows the product's visual capture, which is the 09-18 canon ruling.
 3. Both, if the runtime allows: steak as A/B quick, then piano as the emotional close before the
    swipe-off. Adds about 10 s.
+
+## Melius (created 2026-09-22)
+- Project: "Moonshot Launch Preview - One Swipe (DSC shape)", id 12802868-c952-46c2-96b9-8b0df9e63a3d
+- Canvas 1: c53d2818-f07f-4b0b-8acf-4c938b8be449
+- Nodes: brief, script, use-case options, 11 cut cards, 3 locks copied from the V6 canvas (Dylan
+  face lock v3.1 A, Dylan SHEET v3 silver, PRODUCT SHEET v3 silver), 11 START-frame image nodes on
+  nano-banana-pro image-to-image wired from the locks and their cards. Nothing has been run.
+- Layout: cards x 1080..2160, locks x 2160..2700, frames x 3180..4540; rows 665 px apart.
+- Rule from the repo honoured: the frame prompts on the canvas are DRAFT composition notes; the
+  director skill rewrites them before any paid run.
