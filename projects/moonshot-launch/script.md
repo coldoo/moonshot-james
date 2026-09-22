@@ -1,9 +1,11 @@
-# Moonshot Launch Preview · Script v3 (producer, 2026-09-22, night)
+# Moonshot Launch Preview · Script v4 (producer, 2026-09-22, night, hook added)
 
 Presenter to camera, DSC shape. About 40 s spoken. START frames only in this pass; no video.
 
 | cut | place | line | action |
 |---|---|---|---|
+| H01 | street, same as 01 | "Hey Moonshot, what was everyone laughing at in this photo?" | HOOK. He looks down at a Polaroid of him and his friends, held tilted so we see it too; the pendant faces it; phone dark in his other hand [v4] |
+| H02 | street | "That was 3 months ago. I don't remember any of that." | he glances down at the phone; it lights up (Moonshot answering). Flat disbelief. Cut straight to 01 [v4] |
 | 01 | outside, street, day | "This is Moonshot. The best parts of your life happen away from a screen." | close-up of his chest; he lifts the pendant in his hand toward the lens, bringing the device out. No approach walk [v3] |
 | 02 | front door into hallway | "Moonshot sees and hears your day, so you can ask it anything about your life." | cut to him walking into a house, still talking |
 | 03 | insert | "One swipe and it's paying attention." | close-up: his thumb slides the pendant's shutter open, the lens uncovered |
@@ -21,3 +23,6 @@ Open: real-place photos for the plates were not received; plates generated, revi
 
 v3 changes [producer 2026-09-22, night]: cuts 01, 04 (Jove identity), 07, 08, 09. Cuts 02, 03, 05,
 06, 10 stand from v2.
+
+v4 [producer 2026-09-22, night]: hook H01, H02 added ahead of cut 01. Picks locked: F01 v2, F04 v1,
+F07 v2, F08 v1, F09 v1; F02, F03, F05, F06, F10 from v2.
