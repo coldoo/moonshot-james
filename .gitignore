@@ -30,3 +30,6 @@ Thumbs.db
 .DS_Store
 __pycache__/
 *.pyc
+
+# External repos cloned for reference, never committed here
+references/external/
