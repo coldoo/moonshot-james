@@ -93,3 +93,11 @@ clothing, then pose, then framing and camera position, then environment
 detail, then lighting, then realism instructions, then a negative list.
 
 Whether this structure works in Nano Banana 2 is untested.
+
+## Product close-ups (moonshot-launch v3, 2026-09-22, via Melius nano-banana-pro image-to-image)
+- Cord colour drifts to silver braided roughly 1 in 3 when the pendant fills the frame, even with the
+  product sheet attached. State the cord colour in words in every insert prompt.
+- "No second hand" was ignored once. Write "ONE hand only, his right, the left hand out of frame".
+- Product shape drifted to a round medallion once at medium distance. Reroll, do not prompt around it.
+- "TEE ONLY: ... the puffer is NOT on him" (Dylan's skill line) removed a sheet-driven outer layer first try.
+

@@ -87,3 +87,9 @@ A must be a moment captured live with nothing asked; B must recall that exact mo
   this project: 3,760.
 - Agent review in `frames-v2-review.md`. Producer picks and redos pending (F03, F09 pendant held
   not worn; F04 Jove drift; puffer indoors).
+
+## Status 2026-09-22 (night): v3 redo of five frames
+- Producer notes on v2 applied: F01 chest close-up with fingers on the worn pendant, F04 Jove identity,
+  F07/F08 tee only on the edge of the bed at 2 am with the new habits line, F09 putting it away.
+- Bulk run d7b2743a, 10 of 10 finished. Spend 1,880 Melius credits. Project Melius total: 5,640.
+- Review in `frames-v3-review.md`. Recommended picks: F01 v2 (cord fix), F04 either, F07 v2, F08 v1, F09 v1.
