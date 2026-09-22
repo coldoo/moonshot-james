@@ -4,8 +4,8 @@ Presenter to camera, DSC shape. About 40 s spoken. START frames only in this pas
 
 | cut | place | line | action |
 |---|---|---|---|
-| H01 | street, same as 01 | "Hey Moonshot, what was everyone laughing at in this photo?" | HOOK. He looks down at a Polaroid of him and his friends, held tilted so we see it too; the pendant faces it; phone dark in his other hand [v4] |
-| H02 | street | "That was 3 months ago. I don't remember any of that." | he glances down at the phone; it lights up (Moonshot answering). Flat disbelief. Cut straight to 01 [v4] |
+| H01 | his kitchen, day | "Hey Moonshot, what was everyone laughing at in this photo?" | HOOK. A Polaroid of him and his friends laughing is on the fridge. He stands looking at it, nostalgic; we see his face and the print; the pendant faces it too [v4] |
+| H02 | same | "That was 3 months ago. I don't remember any of that." | the answer lands as a card in the edit; he turns to the lens, deadpan. Second sentence kept for now, "we can always replace". Cut straight to 01 [v4] |
 | 01 | outside, street, day | "This is Moonshot. The best parts of your life happen away from a screen." | close-up of his chest; he lifts the pendant in his hand toward the lens, bringing the device out. No approach walk [v3] |
 | 02 | front door into hallway | "Moonshot sees and hears your day, so you can ask it anything about your life." | cut to him walking into a house, still talking |
 | 03 | insert | "One swipe and it's paying attention." | close-up: his thumb slides the pendant's shutter open, the lens uncovered |
