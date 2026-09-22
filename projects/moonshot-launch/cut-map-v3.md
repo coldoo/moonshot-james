@@ -37,3 +37,9 @@ TEE ONLY: he wears the plain black t-shirt from the attached character sheet and
 
 ### F09 v3
 A close-up photograph shot on an iPhone 16 Pro of the silver Moonshot pendant from the attached product sheet at the end of the day, two in the morning, one warm bedside lamp. A man's right hand, the sleeve a plain black t-shirt sleeve, has lifted the pendant off over his head and holds it low over the wooden nightstand, about to set it down for the night, the black cord gathered loosely through his fingers and trailing down onto the wood. His thumb rests on the face of the pendant having just slid the shutter shut: a flat shutter disc sits flush inside the polished ring where the lens was, no glass visible, the side button visible, nothing flipping up or sticking out. Beside it on the nightstand, the base of the lamp and a glass of water, soft. The pendant sits about two-thirds across from the left edge of frame, the left third the dim room falling to dark. No face in frame, no second hand, no phone anywhere. Shallow focus on the closed shutter and the thumb, warm lamp light from the right, a soft highlight along the ring, the mood of a day being put away. True-to-life colour, real skin texture on the hand, no beauty retouch, no grain. No text, no logos or brand marks anywhere, no on-screen graphics.
+
+## Canvas ids (v3 column, created 2026-09-22 night, not yet run)
+header e4ec5be3 · c01 7acb391b / F01 9f7b2a4a-90d7-4a9c-a1fd-414fc28398df · c04 06c73bc3 / F04 1b8ac8c4-feaf-4701-9638-7f7c10a241c0 ·
+c07 eed1a7ae / F07 53b1c7ca-203e-4cf2-8cb4-04856a6ace65 · c08 241895d4 / F08 b9b03cb9-4a1c-4b90-a148-533593c20bf7 ·
+c09 2982f077 / F09 ab0da122-8b54-4fe4-ac72-5ce4fcd623ca. Locks wired: Dylan face 365dea8a, Dylan sheet 088bbbd3,
+product 66174326; F04 also Jove b7cb563d. F09 is an insert: sheet + product only.
