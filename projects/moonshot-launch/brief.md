@@ -78,3 +78,12 @@ A must be a moment captured live with nothing asked; B must recall that exact mo
 - Layout: cards x 1080..2160, locks x 2160..2700, frames x 3180..4540; rows 665 px apart.
 - Rule from the repo honoured: the frame prompts on the canvas are DRAFT composition notes; the
   director skill rewrites them before any paid run.
+
+## Status 2026-09-22 (evening): v2 START frames run
+- Script v2 (10 cuts) replaced the v0 piano/steak map. v2 column on the canvas: cards c01..c10,
+  START-frame nodes F01..F10, 2 variations each, nano-banana-pro image-to-image. Bulk run
+  c0e54635, 20 of 20 finished, no failures. Video NOT generated, by producer instruction.
+- Spend: 3,760 Melius credits (20 x 188). Higgsfield: 0 this stage. Running Melius total for
+  this project: 3,760.
+- Agent review in `frames-v2-review.md`. Producer picks and redos pending (F03, F09 pendant held
+  not worn; F04 Jove drift; puffer indoors).
