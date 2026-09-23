@@ -79,3 +79,10 @@ are 07..10.
 | C3 | 09 thumb insert | exists (node 237ab201 version a67687a6) |
 
 Cost this pass: 3 frames x 2 variations x 188 = 1,128 Melius credits.
+
+## Correction 2026-09-23 night [PRODUCER]: the phone screen is never on camera
+The answer UI is a post-production element placed beside him. If the phone is in frame, its back faces
+the lens. Consequences: angles A3 and C2 (phone-screen closes) are REJECTED and removed from the film and
+the shot list; the two generated inserts (2 frames, 752 credits) were wasted and are kept as history at
+x -2900 on the canvas. 08 needs a regenerated frame with the phone's back to the lens (08c, drafted, not
+run, 376 credits). H02 and 06 frames stand (no phone in them); the phone pick-up happens after the frame.
