@@ -139,3 +139,9 @@ and each shows its approved variation. Draft columns stay to the right as histor
 - 2026-09-23 night: script v9 (claim, proof, name). H01 hook + two phone-close inserts run, 1,128 credits. Project Melius total: 11,280. v9 FINAL column built at x -3500; v7 column kept as history. Angles and cuts in cut-map-v9.md.
 - 2026-09-23 night: producer rule, the phone screen is never on camera. Two phone-screen inserts rejected (752 wasted). 08c regenerated with the phone's back to the lens, 376. Project Melius total: 11,656. Shot list compacted.
 
+## CLOSED 2026-09-23 [PRODUCER]: v9 START set and shot list
+08c v1 approved. Wardrobe does not matter (keep it consistent within a block). Producer: move forward.
+Deliverables: v9 FINAL column on Melius canvas c53d2818 (x -3500), shot list doc
+https://claude.ai/code/artifact/2728eec8-717c-4cb0-bb97-76fc42d5a0a5, repo notes in projects/moonshot-launch/.
+Melius total 11,656 of 221,000. Higgsfield 0.
+

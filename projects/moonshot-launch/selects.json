@@ -1,6 +1,6 @@
 {
   "project": "moonshot-launch",
-  "stage": "START frames COMPLETE and approved (script v7); next: shot list for the live shoot",
+  "stage": "v9 START set COMPLETE and approved; shot list doc delivered; wardrobe flexible per producer. Next: the live shoot. No END frames, no video requested.",
   "approved_by": "producer",
   "approved_on": "2026-09-23",
   "note": "START frames only. No END frames, no video generated. Melius canvas c53d2818. Paths are gitignored media; the same images live on the canvas nodes.",
@@ -172,7 +172,7 @@
       "node": "200d7e6b-87e4-4f28-8355-97b37423c3d6",
       "run": "77d1d3d6",
       "variation": 1,
-      "status": "Displayed; agent recommends v1 (flatter deadpan). Producer pick pending."
+      "status": "Displayed v1; producer moved forward without objection 2026-09-23"
     },
     "PHk": {
       "file": "frames/v9/PHk_v1.png",
@@ -193,7 +193,7 @@
       "node": "98f4df6e-bad7-4211-9e84-250195e0f592",
       "run": "5f90c63d",
       "variation": 1,
-      "status": "Displayed; both takes hide the screen, v1 recommended. Replaces 08b in the film."
+      "status": "APPROVED 2026-09-23 (producer), v1"
     }
   },
   "spend": {
