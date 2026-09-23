@@ -55,3 +55,12 @@ TEE ONLY: he wears the plain black t-shirt from the attached character sheet and
 ## FINAL column rows after the restack (frames x -1240, cards x -1700)
 H01 0 · H02 665 · 02b 1330 · 03 1995 · 03b 2660 · 04 3325 · 05 3990 · 06 4655 · 06b 5320 · 07b 5985 · 08b 6650 · 09b 7315 · 10b 7980.
 Retired 07, 08, 09 go back to the v3 column (x 7460 rows 3990, 4655, 5320); retired 10 to the v2 column (x 5760 row 5985).
+
+## Canvas ids (v7 frames, created 2026-09-23, NOT RUN)
+c03b a2d23c0c / F03b b57ef754-537d-436e-9e16-e9e39517fbd3 (refs: face, sheet, product, approved 02b, approved 04)
+c06b 34f58d61 / F06b c4c2f684-10ce-4398-bddd-10eb910f7e3e (refs: face, sheet, product, approved 06)
+c07b d077b788 / F07b bc7afc16-6769-45e3-9bb9-039880f2d974 (refs: face, sheet, product, retired 07 for tee-only and lamp)
+c08b 287d9817 / F08b d2848aa0-b315-46f2-a4d1-a4244a640e7a (refs: face, sheet, product, F07b output)
+c09b 2f1f295d / F09b 237ab201-aae3-4e49-b2a0-7624f25e6b6b (refs: face, sheet, product, F07b output)
+c10b f84da08c / F10b f9f85225-4ea3-4748-9463-3dd1789b4b3c (refs: face, sheet, product, F07b output)
+Retired: 07 53b1c7ca and 08 b9b03cb9 and 09 ab0da122 to the v3 column; 10 b1f63698 to the v2 column. Cards moved with them.
