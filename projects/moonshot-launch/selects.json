@@ -1,6 +1,6 @@
 {
   "project": "moonshot-launch",
-  "stage": "v11: seven frames regenerated from the real-place photos (Apt 1 and desk); displayed takes are agent picks, producer picks pending. No END frames, no video.",
+  "stage": "v11 desk frames (07 to 10) from the real desk plate stand; Apt 1 frames reverted to v9 (02b, 03b, 04) at producer request. Producer picks pending on the desk takes. No END frames, no video.",
   "approved_by": "producer",
   "approved_on": "2026-09-23",
   "note": "START frames only. No END frames, no video generated. Melius canvas c53d2818. Paths are gitignored media; the same images live on the canvas nodes.",
@@ -52,7 +52,7 @@
       "node": "1b8ac8c4-feaf-4701-9638-7f7c10a241c0",
       "run": "d7b2743a",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (v3 set) | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
+      "status": "APPROVED 2026-09-23 (v3 set) | RESTORED to the FINAL column 2026-09-23 night after the v11 Apt 1 frames were set aside."
     },
     "F05": {
       "file": "frames/v2/F05_v2.png",
@@ -159,14 +159,14 @@
       "node": "02974c53-1fba-4d43-b44e-fa0966c14c5e",
       "run": "6cdca3cc",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (producer), v1. Replaces 03b in the film. | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
+      "status": "APPROVED 2026-09-23 (producer), v1. Replaces 03b in the film. | RESTORED to the FINAL column 2026-09-23 night after the v11 Apt 1 frames were set aside."
     },
     "F02c": {
       "file": "frames/v7/F02c_v1.png",
       "node": "3aa7cf68-ca9c-460d-a8a8-4767aac16428",
       "run": "9a1a6030",
       "variation": 1,
-      "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending. | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
+      "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending. | RESTORED to the FINAL column 2026-09-23 night after the v11 Apt 1 frames were set aside."
     },
     "H01v9": {
       "file": "frames/v9/H01_v1.png",
@@ -209,7 +209,7 @@
       "run": "0b4c0c1e",
       "variation": 2,
       "version_displayed": "39abe711",
-      "status": "Replaces v9 02b (3aa7cf68). Real Apt 1 plate: door left, cabinet and fridge right, from the sink peninsula. Agent pick v2 (room geography reads); v1 has him deeper in the doorway. Producer pick pending."
+      "status": "Replaces v9 02b (3aa7cf68). Real Apt 1 plate: door left, cabinet and fridge right, from the sink peninsula. Agent pick v2 (room geography reads); v1 has him deeper in the doorway. Producer pick pending. | SET ASIDE 2026-09-23 night (producer does not like the Apt 1 generations); back in the v11 column at x -6200."
     },
     "F03b_v11": {
       "file": "frames/v11/F03b_v1.png",
@@ -217,7 +217,7 @@
       "run": "0b4c0c1e",
       "variation": 1,
       "version_displayed": "1c0c626b",
-      "status": "Replaces v9 03b (02974c53). Same axis as 02b, two steps closer. Agent pick v1. Producer pick pending."
+      "status": "Replaces v9 03b (02974c53). Same axis as 02b, two steps closer. Agent pick v1. Producer pick pending. | SET ASIDE 2026-09-23 night (producer does not like the Apt 1 generations); back in the v11 column at x -6200."
     },
     "F04_v11": {
       "file": "frames/v11/F04_v2.png",
@@ -265,7 +265,7 @@
       "run": "37b2ae79",
       "variation": 2,
       "version_displayed": "d97edcd3",
-      "status": "Displayed. Real galley angle: camera behind the sink peninsula turned right, Jove in profile at the range, Dylan by the fridge. v2 holds the Jove lock; v1 REJECTED (Jove rendered as a different young man). Producer pick pending."
+      "status": "Displayed. Real galley angle: camera behind the sink peninsula turned right, Jove in profile at the range, Dylan by the fridge. v2 holds the Jove lock; v1 REJECTED (Jove rendered as a different young man). Producer pick pending. | SET ASIDE 2026-09-23 night (producer does not like the Apt 1 generations); back in the v11 column at x -6200."
     }
   },
   "spend": {
@@ -352,10 +352,10 @@
     "H01b",
     "H01(now H02)",
     "H02(now H03)",
-    "F02b_v11",
+    "F02c(02b)",
     "F03",
-    "F03b_v11",
-    "F04b_v11",
+    "F03c(03b)",
+    "F04",
     "F05",
     "F06",
     "F07_v11",

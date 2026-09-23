@@ -92,3 +92,9 @@ plates P3 + P1, the v11 03b frame for the camera position, the locks and Jove. T
 and will move to history when 04b is picked. Not run: 2 variations x 188 = 376 credits.
 Run 37b2ae79: 04b v2 (version d97edcd3) displayed and moved into the FINAL row y 4655; v1 rejected (Jove identity
 lost). Rejected v11 04 node parked at x -7600. Project Melius total 15,040.
+
+## Revert 2026-09-23 night [PRODUCER]: Apartment 1 frames back to v9
+Producer: "go back to the apartment we had before, I don't like these generations." Read as Scene 2 (Apartment 1).
+v9 02b (3aa7cf68), 03b (02974c53) and 04 (1b8ac8c4) return to the FINAL column rows; v11 02b, 03b and 04b go back
+to the v11 column at x -6200 as history. The desk frames 07 to 10 from the real desk plate stand unless the
+producer says otherwise. The real-room geometry notes above still hold for the shoot. No spend.
