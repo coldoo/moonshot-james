@@ -137,4 +137,5 @@ and each shows its approved variation. Draft columns stay to the right as histor
 - Frames embedded as 1280 px JPEGs uploaded to the doc's asset store (14, including the Polaroid prop).
 - 2026-09-23 evening: 02c (front door entry) run, 376 credits. Project Melius total: 10,152. Shot list trimmed to line/frame/movement.
 - 2026-09-23 night: script v9 (claim, proof, name). H01 hook + two phone-close inserts run, 1,128 credits. Project Melius total: 11,280. v9 FINAL column built at x -3500; v7 column kept as history. Angles and cuts in cut-map-v9.md.
+- 2026-09-23 night: producer rule, the phone screen is never on camera. Two phone-screen inserts rejected (752 wasted). 08c regenerated with the phone's back to the lens, 376. Project Melius total: 11,656. Shot list compacted.
 

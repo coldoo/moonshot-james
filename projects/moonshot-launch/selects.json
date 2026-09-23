@@ -130,7 +130,7 @@
       "node": "d2848aa0-b315-46f2-a4d1-a4244a640e7a",
       "run": "1dc575fc",
       "variation": 2,
-      "status": "Stands for now; producer rule means it needs a regenerated frame with the phone back to the lens (08c drafted, node 98f4df6e, not run)."
+      "status": "REPLACED by 08c 2026-09-23 (phone screen was toward the lens); kept as history at x -2900"
     },
     "F09b": {
       "file": "frames/v7/F09b_v1.png",
@@ -187,10 +187,17 @@
       "run": "77d1d3d6",
       "variation": 2,
       "status": "REJECTED 2026-09-23: the phone screen is never on camera (UI in post). Wasted, kept as history at x -2900."
+    },
+    "F08c": {
+      "file": "frames/v9/F08c_v1.png",
+      "node": "98f4df6e-bad7-4211-9e84-250195e0f592",
+      "run": "5f90c63d",
+      "variation": 1,
+      "status": "Displayed; both takes hide the screen, v1 recommended. Replaces 08b in the film."
     }
   },
   "spend": {
-    "melius_credits_total": 11280,
+    "melius_credits_total": 11656,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -241,7 +248,7 @@
     "F05",
     "F06",
     "F07b(07)",
-    "F08b(08, to be replaced by 08c)",
+    "F08c(08)",
     "F09b(09 master)",
     "F10b(10)"
   ],

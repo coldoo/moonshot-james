@@ -51,3 +51,6 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
 - Phone close, kitchen (A3): v1 angled to camera with the blank screen readable; v2 tighter. Recommend v1.
 - Phone close, desk (C2): v2 faces the camera squarely under the lamp; v1 angles away. Recommend v2.
 - 09 master restored to the two-hands take (laptop lid + shutter); the thumb close-up stays as the optional insert.
+
+## 08c · 2026-09-23 (run 5f90c63d, 2 renders, 376 credits; project total 11,656)
+- Both takes: phone held up in the right hand with its BACK to the lens, screen hidden, same desk, lamp right, laptop foreground. Near identical; v1 recommended and displayed. Replaces 08b.
