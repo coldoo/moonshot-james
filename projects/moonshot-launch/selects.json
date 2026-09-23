@@ -29,14 +29,16 @@
       "node": "9f7b2a4a-90d7-4a9c-a1fd-414fc28398df",
       "run": "d7b2743a",
       "variation": 2,
-      "fix_in_edit": "cord to black"
+      "fix_in_edit": "cord to black",
+      "status": "REMOVED from the film 2026-09-23 (approved frame kept in the v3 draft column)"
     },
     "F02": {
       "file": "frames/v2/F02_v1.png",
       "node": "a3f78689-558b-4dc6-9e0f-3d411b011a70",
       "run": "c0e54635",
       "variation": 1,
-      "note": "producer liked F02; variation not stated, v1 assumed"
+      "note": "producer liked F02; variation not stated, v1 assumed",
+      "status": "REPLACED by 02b 2026-09-23 (approved frame kept in the v2 draft column)"
     },
     "F03": {
       "file": "frames/v2/F03_v1.png",
@@ -89,10 +91,17 @@
       "run": "c0e54635",
       "variation": 2,
       "note": "stands from v2; variation not stated by the producer, the one displayed on the canvas (v2) recorded"
+    },
+    "F02b": {
+      "file": "frames/v5/F02b_v2.png",
+      "node": "47dc70ba-c1bf-4a05-8231-8febf833d861",
+      "run": "a9100c7f",
+      "variation": 2,
+      "status": "PENDING producer pick; agent recommends v2 (black cord)"
     }
   },
   "spend": {
-    "melius_credits_total": 6580,
+    "melius_credits_total": 6956,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -103,17 +112,29 @@
     "rows_y": {
       "H01": 0,
       "H02": 665,
-      "F01": 1330,
-      "F02": 1995,
-      "F03": 2660,
-      "F04": 3325,
-      "F05": 3990,
-      "F06": 4655,
-      "F07": 5320,
-      "F08": 5985,
-      "F09": 6650,
-      "F10": 7315
+      "F02b": 1330,
+      "F03": 1995,
+      "F04": 2660,
+      "F05": 3325,
+      "F06": 3990,
+      "F07": 4655,
+      "F08": 5320,
+      "F09": 5985,
+      "F10": 6650
     },
     "note": "Approved frame nodes were MOVED into this column (same node ids); their active version is the approved variation. Draft columns remain at x 3180 (v1), 5760 (v2), 7460 (v3), 8460 (hook)."
-  }
+  },
+  "film_order": [
+    "H01",
+    "H02",
+    "F02b",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10"
+  ]
 }

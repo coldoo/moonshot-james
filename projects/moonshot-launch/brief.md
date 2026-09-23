@@ -113,3 +113,8 @@ to bottom: H01, H02, 01..10, with the Polaroid prop beside H01. The approved fra
 and each shows its approved variation. Draft columns stay to the right as history. Node ids and rows in
 `selects.json`. F05, F06, F10 recorded as v2 (the displayed variation) since no pick was stated.
 
+## Status 2026-09-23: cut 01 removed, 02b run
+- Script v5. Film order H01, H02, 02b, 03..10. 01 and old 02 left the film (frames kept as history).
+- 02b run a9100c7f, 2 variations, no failures. Spend 376. Project Melius total: 6,956 of 221,000.
+- Review in `frames-v5-review.md`. Recommend v2 (black cord). Pick pending.
+
