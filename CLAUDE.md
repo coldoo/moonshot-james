@@ -5,6 +5,13 @@ Generation runs on Higgsfield and Melius. Editing, retiming, sound and export ru
 tools (ffmpeg, RIFE, OpenTimelineIO). This file is loaded by every session and every subagent.
 Read it fully before acting. When a rule here conflicts with a task prompt, this file wins.
 
+## Where work lands
+
+This repo is James's own pipeline workspace. Moonshot work goes to Dylan's repos instead. Video work
+goes to `moonshot-films-private` and copy and content work goes to `moonshot-content-private`. The full
+routing table is in `~/.claude/CLAUDE.md`. If a task here turns out to be Moonshot video or copy work, say
+so before producing anything. The output, the code and the learnings all belong in that repo, under its `AGENTS.md`.
+
 ## What we make
 
 Short, high-energy launch videos. Fast cuts, speed ramps, voiceover-driven pacing.
@@ -154,6 +161,12 @@ At the end of any task, report in this shape:
 
 Keep it short. The producer reads dozens of these a day.
 
+## Session learnings
+
+After a PR is pushed, run `/closeout`. It writes `docs/sessions/<date>-<slug>.md` and compounds repeat
+learnings into `docs/solutions/patterns/critical-patterns.md`. It proposes edits to this file, and applies
+them only on the producer's yes. Read `critical-patterns.md` before starting a stage.
+
 ## Repo layout
 
 ```
@@ -164,4 +177,6 @@ references/prompts/       prompts that worked, with notes
 references/clips/         pointers to gold-standard clips (not the files)
 scripts/                  shared helpers: extract_frame, retime, contact_sheet, assemble
 projects/<name>/          one folder per video, gitignored media
+docs/sessions/            one learnings file per session, written by /closeout
+docs/solutions/patterns/  critical-patterns.md, compounded from the session files
 ```
