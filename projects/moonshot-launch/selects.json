@@ -1,0 +1,23 @@
+{
+  "project": "moonshot-launch",
+  "stage": "START frames",
+  "approved_by": "producer",
+  "approved_on": "2026-09-23",
+  "note": "START frames only. No END frames, no video generated. Melius canvas c53d2818. Paths are gitignored media; the same images live on the canvas nodes.",
+  "selects": {
+    "H01": {"file": "frames/hook/H01_v1.png", "node": "d2c4949e-93d7-4bd3-ac93-e8d6dbf4a009", "run": "a93ca883", "variation": 1},
+    "H02": {"file": "frames/hook/H02_v2.png", "node": "bc371f46-6969-4b02-bef6-4cbc0a51cdf1", "run": "a93ca883", "variation": 2},
+    "P01": {"file": "frames/hook/P01_v1.png", "node": "d7040423-7cf8-4b7c-9a0b-b992f870c62f", "run": "a93ca883", "variation": 1, "role": "prop, the Polaroid"},
+    "F01": {"file": "frames/v3/F01_v2.png", "node": "9f7b2a4a-90d7-4a9c-a1fd-414fc28398df", "run": "d7b2743a", "variation": 2, "fix_in_edit": "cord to black"},
+    "F02": {"file": "frames/v2/F02_v1.png", "node": "a3f78689-558b-4dc6-9e0f-3d411b011a70", "run": "c0e54635", "variation": 1, "note": "producer liked F02; variation not stated, v1 assumed"},
+    "F03": {"file": "frames/v2/F03_v1.png", "node": "40831f6a-c48f-4ffe-8690-13e17c0eb48b", "run": "c0e54635", "variation": 1, "note": "producer liked F03; variation not stated, v1 assumed"},
+    "F04": {"file": "frames/v3/F04_v1.png", "node": "1b8ac8c4-feaf-4701-9638-7f7c10a241c0", "run": "d7b2743a", "variation": 1},
+    "F05": {"file": "frames/v2/F05_v1.png", "node": "d235e7bf-0678-4dae-b983-83153a09d5f4", "run": "c0e54635", "variation": 1, "note": "stands from v2; variation not stated, v1 assumed"},
+    "F06": {"file": "frames/v2/F06_v1.png", "node": "3076ed07-3487-4cf5-bb7d-d6c570096ba7", "run": "c0e54635", "variation": 1, "note": "stands from v2; variation not stated, v1 assumed"},
+    "F07": {"file": "frames/v3/F07_v2.png", "node": "53b1c7ca-203e-4cf2-8cb4-04856a6ace65", "run": "d7b2743a", "variation": 2},
+    "F08": {"file": "frames/v3/F08_v1.png", "node": "b9b03cb9-4a1c-4b90-a148-533593c20bf7", "run": "d7b2743a", "variation": 1},
+    "F09": {"file": "frames/v3/F09_v1.png", "node": "ab0da122-8b54-4fe4-ac72-5ce4fcd623ca", "run": "d7b2743a", "variation": 1},
+    "F10": {"file": "frames/v2/F10_v1.png", "node": "b1f63698-679a-498b-b548-ecf4ee288599", "run": "c0e54635", "variation": 1, "note": "stands from v2; variation not stated, v1 assumed"}
+  },
+  "spend": {"melius_credits_total": 6580, "higgsfield_credits_total": 0}
+}

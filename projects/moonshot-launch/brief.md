@@ -101,3 +101,9 @@ A must be a moment captured live with nothing asked; B must recall that exact mo
 - Review in `frames-hook-review.md`. Recommended picks: P01 v1, H01 v1, H02 v2.
 - START set now complete pending these picks: H01, H02, F01..F10. No END frames, no video generated.
 
+## APPROVED 2026-09-23 [PRODUCER]: START set
+H01 v1, H02 v2, P01 v1 (prop), F01 v2 (cord fix in edit), F04 v1, F07 v2, F08 v1, F09 v1; F02, F03, F05,
+F06, F10 from v2 (variation not stated, v1 recorded, swap on request). Recorded in `selects.json`.
+Locked: no regeneration of these frames; a change means a new frame id. Next stage (END frames or video)
+not requested.
+
