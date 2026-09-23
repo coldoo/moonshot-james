@@ -127,3 +127,12 @@ and each shows its approved variation. Draft columns stay to the right as histor
 - Routing: this is Moonshot video work and belongs in dylanpakd-cyber/moonshot-films-private on a
   james/ branch per ~/.claude/CLAUDE.md. No Films clone on this machine yet; producer to decide.
 - 2026-09-23 later: 09c (pendant close-up) and 03c (empty background) run, 752 credits. Project Melius total: 9,776.
+
+## Shot list 2026-09-23
+- Google Doc (Claude Docs) "Moonshot Launch Preview, Shot List v7":
+  https://claude.ai/code/artifact/2728eec8-717c-4cb0-bb97-76fc42d5a0a5
+  Sections: how to use and running order (13 cuts, about 43 s), prep (cast, wardrobe states A/B/C, props,
+  locations), the shot list with the approved frame per cut plus line, frame, camera, Dylan, movement, cut in
+  and out, edit notes (three phone answers, one price block, no logo card), shoot order by location.
+- Frames embedded as 1280 px JPEGs uploaded to the doc's asset store (14, including the Polaroid prop).
+
