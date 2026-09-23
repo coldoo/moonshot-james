@@ -1,6 +1,6 @@
 {
   "project": "moonshot-launch",
-  "stage": "v9 START set COMPLETE and approved; shot list doc delivered; wardrobe flexible per producer. Next: the live shoot. No END frames, no video requested.",
+  "stage": "v11: seven frames regenerated from the real-place photos (Apt 1 and desk); displayed takes are agent picks, producer picks pending. No END frames, no video.",
   "approved_by": "producer",
   "approved_on": "2026-09-23",
   "note": "START frames only. No END frames, no video generated. Melius canvas c53d2818. Paths are gitignored media; the same images live on the canvas nodes.",
@@ -51,7 +51,8 @@
       "file": "frames/v3/F04_v1.png",
       "node": "1b8ac8c4-feaf-4701-9638-7f7c10a241c0",
       "run": "d7b2743a",
-      "variation": 1
+      "variation": 1,
+      "status": "APPROVED 2026-09-23 (v3 set) | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "F05": {
       "file": "frames/v2/F05_v2.png",
@@ -122,7 +123,7 @@
       "node": "bc7afc16-6769-45e3-9bb9-039880f2d974",
       "run": "1dc575fc",
       "variation": 1,
-      "status": "Single take, desk plate; stands unless the producer says otherwise. Laptop mark to retouch.",
+      "status": "Single take, desk plate; stands unless the producer says otherwise. Laptop mark to retouch. | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900.",
       "role": "desk plate for 08b, 09b, 10b"
     },
     "F08b": {
@@ -137,14 +138,14 @@
       "node": "237ab201-aae3-4e49-b2a0-7624f25e6b6b",
       "run": "1dc575fc",
       "variation": 1,
-      "status": "RESTORED as the 09 master frame in script v9 (phone down, laptop shuts, shutter closes); version ae953804 displayed. 09c close-up stays as the optional C3 insert (version a67687a6)."
+      "status": "RESTORED as the 09 master frame in script v9 (phone down, laptop shuts, shutter closes); version ae953804 displayed. 09c close-up stays as the optional C3 insert (version a67687a6). | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "F10b": {
       "file": "frames/v7/F10b_v1.png",
       "node": "f9f85225-4ea3-4748-9463-3dd1789b4b3c",
       "run": "1dc575fc",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (producer)"
+      "status": "APPROVED 2026-09-23 (producer) | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "F09c": {
       "file": "frames/v7/F09c_v1.png",
@@ -158,14 +159,14 @@
       "node": "02974c53-1fba-4d43-b44e-fa0966c14c5e",
       "run": "6cdca3cc",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (producer), v1. Replaces 03b in the film."
+      "status": "APPROVED 2026-09-23 (producer), v1. Replaces 03b in the film. | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "F02c": {
       "file": "frames/v7/F02c_v1.png",
       "node": "3aa7cf68-ca9c-460d-a8a8-4767aac16428",
       "run": "9a1a6030",
       "variation": 1,
-      "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending."
+      "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending. | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "H01v9": {
       "file": "frames/v9/H01_v1.png",
@@ -193,7 +194,7 @@
       "node": "98f4df6e-bad7-4211-9e84-250195e0f592",
       "run": "5f90c63d",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (producer), v1"
+      "status": "APPROVED 2026-09-23 (producer), v1 | REPLACED by v11 real-plate frame 2026-09-23 night; moved to history at x -6900."
     },
     "H01b": {
       "file": "frames/v9/H01b_v1.png",
@@ -201,10 +202,66 @@
       "run": "0873d460",
       "variation": 1,
       "status": "Displayed; the hook with thumb and index on the pendant (02b gesture). Replaces H01 v9. Producer asked for it directly."
+    },
+    "F02b_v11": {
+      "file": "frames/v11/F02b_v2.png",
+      "node": "e30cf745-ec12-4df6-a1f8-9a9d2b117ba7",
+      "run": "0b4c0c1e",
+      "variation": 2,
+      "version_displayed": "39abe711",
+      "status": "Replaces v9 02b (3aa7cf68). Real Apt 1 plate: door left, cabinet and fridge right, from the sink peninsula. Agent pick v2 (room geography reads); v1 has him deeper in the doorway. Producer pick pending."
+    },
+    "F03b_v11": {
+      "file": "frames/v11/F03b_v1.png",
+      "node": "412b06b4-c6f4-422c-a84e-8f997355e844",
+      "run": "0b4c0c1e",
+      "variation": 1,
+      "version_displayed": "1c0c626b",
+      "status": "Replaces v9 03b (02974c53). Same axis as 02b, two steps closer. Agent pick v1. Producer pick pending."
+    },
+    "F04_v11": {
+      "file": "frames/v11/F04_v2.png",
+      "node": "4854ac96-24e6-426a-88a7-32f9ac04d137",
+      "run": "0b4c0c1e",
+      "variation": 2,
+      "version_displayed": "83717586",
+      "status": "Replaces v9 04 (1b8ac8c4). v2 only: Jove at the real range, apron. v1 REJECTED (pan on the peninsula, copied the taped photo and shoes from the plate)."
+    },
+    "F07_v11": {
+      "file": "frames/v11/F07_v1.png",
+      "node": "3c5bcfbe-b77a-40a5-a2b9-78996307b300",
+      "run": "0b4c0c1e",
+      "variation": 1,
+      "version_displayed": "591dc747",
+      "status": "Replaces 07b (bc7afc16). Real desk from the far end, lamp left, window right. Agent pick v1 (tighter). Producer pick pending."
+    },
+    "F08_v11": {
+      "file": "frames/v11/F08_v1.png",
+      "node": "8aa76005-4c1f-4c79-a695-e17e231e9951",
+      "run": "0b4c0c1e",
+      "variation": 1,
+      "version_displayed": "a9d3651e",
+      "status": "Replaces 08c (98f4df6e). Phone back to lens in both takes. Agent pick v1 (cleaner desk; v2 shows the laptop stand). Producer pick pending."
+    },
+    "F09_v11": {
+      "file": "frames/v11/F09_v2.png",
+      "node": "995c772c-7a6d-41ff-8be3-ed29259e2009",
+      "run": "0b4c0c1e",
+      "variation": 2,
+      "version_displayed": "8969849e",
+      "status": "Replaces 09b master (237ab201). v2: lid half closed mid-motion, thumb on the pendant, phone face down. v1 has the lid already shut. Producer pick pending."
+    },
+    "F10_v11": {
+      "file": "frames/v11/F10_v1.png",
+      "node": "2d75cc1b-4d30-493c-9098-bedf07c2342b",
+      "run": "0b4c0c1e",
+      "variation": 1,
+      "version_displayed": "f01075c5",
+      "status": "Replaces 10b (f9f85225). Agent pick v1 (mug off the laptop, lamp side clear). Producer pick pending."
     }
   },
   "spend": {
-    "melius_credits_total": 12032,
+    "melius_credits_total": 14664,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -281,6 +338,29 @@
       "09": 8645,
       "10": 9310
     },
-    "note": "v7 column at x -2300..-680 is history"
+    "note": "v7 column at x -2300..-680 is history. 2026-09-23 night: rows 02b, 03b, 04, 07, 08, 09, 10 now hold the v11 real-plate nodes; the v9 nodes they replaced sit at x -6900 on the same rows."
+  },
+  "film_order_v11": [
+    "H01b",
+    "H01(now H02)",
+    "H02(now H03)",
+    "F02b_v11",
+    "F03",
+    "F03b_v11",
+    "F04_v11",
+    "F05",
+    "F06",
+    "F07_v11",
+    "F08_v11",
+    "F09_v11",
+    "F10_v11"
+  ],
+  "plates": {
+    "note": "Real-place photos from the producer 2026-09-23, file nodes at x -5200 on canvas c53d2818; JPEGs in plates/ (gitignored).",
+    "P1_kitchen_from_sink_a": "7ec45da2-7225-499f-a5b4-542600f72714",
+    "P2_front_door": "fa670956-37d2-4314-a70a-d6681bbddf7c",
+    "P3_kitchen_from_sink_b": "77959467-abc2-4ce6-b2bf-7b8a5d9234bb",
+    "P4_desk_from_door": "9b6010c6-e008-432e-8a02-8bd2ee1afab8",
+    "P5_desk_from_desk_end": "4075613d-c2db-477d-ac3e-4dbd4d84a551"
   }
 }

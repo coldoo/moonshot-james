@@ -57,3 +57,16 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
 
 ## H01b · 2026-09-23 (run 0873d460, 2 renders, 376 credits; project total 12,032)
 - Producer: H01 must show him holding the pendant like 02b. Both takes: kitchen, tee, front, chest up, thumb and index on the worn pendant tilted to the lens, black cord, print on the fridge behind. v1 shows the pendant a touch larger; recommended and displayed.
+
+## v11 review 2026-09-23 night: seven frames from the REAL rooms (run 0b4c0c1e, 14 renders, 2,632 credits, no failures)
+Sheets: frames/v11/sheet_apt1.jpg, sheet_desk.jpg (v1 left, v2 right). The plates held: both rooms read as the
+producer's photos (keypad door, dark cabinet and fridge, blue tile and range; black desk, disc floor lamp, shaded window).
+- 02b: both good. v2 shows the door left and the fridge right, the geography the crew needs; v1 has him deeper in the doorway. Pick v2.
+- 03b: both good, same axis as 02b, closer. Pick v1 (cleaner, the closed door and keypad read behind him).
+- 04: v2 only. Jove at the real range in an apron, Dylan beside him, microwave and fridge placed right. v1 REJECTED: the pan sits on the peninsula, and the model copied the taped photo and the shoes from the plate.
+- 07: both good. Pick v1 (tighter, pendant catches the lamp).
+- 08: both keep the phone screen hidden. Pick v1; v2 shows the real laptop stand and mousepad.
+- 09: v2 has the lid half closed mid-motion with the thumb on the pendant; v1 has the lid already shut. Pick v2.
+- 10: both good. Pick v1 (mug off the laptop, lamp side clear for the text).
+Recurring: the laptop carries an Apple mark in most takes despite "no logo". Retouch if it matters; the real shoot will have a real laptop.
+Model note: with a real photo as a plate the model will copy its clutter (taped photo, shoes) unless the prompt removes it AND the pose ref is clean. Say what is NOT there.

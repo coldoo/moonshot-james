@@ -57,3 +57,8 @@ v10 [producer 2026-09-23 night, words only, frames unchanged]:
 All other lines as v9. The price is now spoken in 10 (brand STOP block says no price in copy; producer's call, noted once).
 Shot list doc restructured to scene by scene: frame, words, cut. No camera-position, running-order or cuts tables.
 
+
+v11 [2026-09-23 night, frames only, words unchanged]: real-place photos received. 02b, 03b, 04 regenerated from the
+Apartment 1 plates (one camera position behind the sink peninsula), 07 to 10 from the desk plates (camera at the far
+end of the desk, lamp left, window right). H01b, H02, H03, 03, 05, 06 stand. Real plates received: the "Open" line
+above about plates is closed.

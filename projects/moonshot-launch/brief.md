@@ -146,3 +146,4 @@ https://claude.ai/code/artifact/2728eec8-717c-4cb0-bb97-76fc42d5a0a5, repo notes
 Melius total 11,656 of 221,000. Higgsfield 0.
 - 2026-09-23 night: script v10 words (07, 08, 10). H01b regenerated with the pendant in hand, 376. Project Melius total: 12,032. Shot list doc restructured scene by scene (frame, words, cut).
 
+- 2026-09-23 night: producer's real-place photos arrived (Apt 1 x3, desk x2), uploaded as plates at x -5200. Seven frames regenerated from them (02b, 03b, 04, 07, 08, 09, 10), run 0b4c0c1e, 2,632 credits. Project Melius total: 14,664 of 221,000. v11 nodes now sit in the FINAL column rows; the v9 nodes they replaced are history at x -6900. Review in frames-v7-review.md; agent picks displayed, producer picks pending. Angle notes in cut-map-v11-plates.md.

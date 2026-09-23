@@ -72,3 +72,12 @@ Per cut, the action:
 - 09: phone face down, left hand on the laptop lid half closed, right thumb on the pendant closing the shutter, eyes on the pendant.
 - 10: laptop closed, phone face down, sitting back, eyes on the lens, small dry smile, lamp side of frame kept clear for the text.
 Every prompt: black cord never silver, exactly two hands, no phone screen, no text or logos.
+
+## Run 2026-09-23 night: bulk run 0b4c0c1e, 14 renders, 2,632 credits, no failures. Project Melius total 14,664.
+Displayed takes (agent picks, producer picks pending): 02b v2 (39abe711), 03b v1 (1c0c626b), 04 v2 (83717586),
+07 v1 (591dc747), 08 v1 (a9d3651e), 09 v2 (8969849e), 10 v1 (f01075c5). 04 v1 rejected (pan on the peninsula,
+copied the taped photo and shoes from the plate). Review in frames-v7-review.md.
+Canvas: the seven v11 nodes now sit in the FINAL column (x -3500) on their film rows; the v9 nodes they replaced
+sit at x -6900 on the same rows. The v11 draft column at x -6200 is empty except its header card.
+Doc: Scene 2 and Scene 4 tables rebuilt with the v11 frames (rev 51). Scene 2 and 4 intros now state the one
+camera position per scene. The producer's own edit to the 07 line was kept.
