@@ -148,3 +148,4 @@ Melius total 11,656 of 221,000. Higgsfield 0.
 
 - 2026-09-23 night: producer's real-place photos arrived (Apt 1 x3, desk x2), uploaded as plates at x -5200. Seven frames regenerated from them (02b, 03b, 04, 07, 08, 09, 10), run 0b4c0c1e, 2,632 credits. Project Melius total: 14,664 of 221,000. v11 nodes now sit in the FINAL column rows; the v9 nodes they replaced are history at x -6900. Review in frames-v7-review.md; agent picks displayed, producer picks pending. Angle notes in cut-map-v11-plates.md.
 - 2026-09-23 night: producer rejected the v11 04 angle (range head-on does not exist in the real galley). 04b run from the 02b/03b camera turned right, 376 credits. Project Melius total: 15,040 of 221,000. 04b v2 displayed in the FINAL column; rejected v11 04 at x -7600.
+- 2026-09-23 night: script v12 words (H03, 07) reflected in the shot list doc. No frames changed, no spend.

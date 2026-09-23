@@ -62,3 +62,10 @@ v11 [2026-09-23 night, frames only, words unchanged]: real-place photos received
 Apartment 1 plates (one camera position behind the sink peninsula), 07 to 10 from the desk plates (camera at the far
 end of the desk, lamp left, window right). H01b, H02, H03, 03, 05, 06 stand. Real plates received: the "Open" line
 above about plates is closed.
+
+v12 [producer 2026-09-23 night, words only, frames unchanged]:
+H03 "No setup, it already knew." (was "No context, no setup. It already knew.")
+07 "It also catches things I'd never notice on my own." (was the v10 line "It's not just remembering things...", and the producer's own doc edit "And it's not just remembering. It's noticing things I'd never catch myself.")
+All other lines as v10. Frames: 02b, 03b, 04 (04b) and 07 to 10 are the v11 real-plate frames. The producer's v12 table
+keeps "answer on his phone, shown" for H02, 06 and 08; the shot list keeps the standing rule that the phone screen is
+never on camera and the answer is placed in post.
