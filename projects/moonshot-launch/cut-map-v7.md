@@ -25,7 +25,7 @@ One-pass alternative: 07b runs once as the intermediate, 2,068 total.
 | 06b | tight on mouth and spoon, profile a quarter to lens | tastes, small nod | static, 1 to 2 s | insert / hard cut to 07b, night |
 | 07b | far side of the desk corner, laptop bottom left, he in the right two-thirds | sitting back, tired, to lens | static | scene change / cut to 08b |
 | 08b | same setup, chest up, right third clear | looks down at the phone, lit by it | static | cut in / card lands, cut to 09b |
-| 09b | same setup, waist up, both hands readable | left hand closes the laptop, right thumb closes the shutter | static, two small actions | cut in / cut to 10b on the shutter |
+| 09c | macro on the pendant on his chest, face out of frame | right thumb closes the shutter | static, one swipe (the laptop shuts in the beat before, off this frame) | cut in / cut to 10b on the shutter |
 | 10b | same setup, chest up, left two-thirds, right third clear for the on-screen text | chair a quarter to lens, deadpan | static | cut in / ends on him, no logo card |
 
 Wardrobe: puffer over the tee at the gathering (02b, 03, 03b, 04) and in his kitchen (05, 06, 06b,
@@ -64,3 +64,9 @@ c08b 287d9817 / F08b d2848aa0-b315-46f2-a4d1-a4244a640e7a (refs: face, sheet, pr
 c09b 2f1f295d / F09b 237ab201-aae3-4e49-b2a0-7624f25e6b6b (refs: face, sheet, product, F07b output)
 c10b f84da08c / F10b f9f85225-4ea3-4748-9463-3dd1789b4b3c (refs: face, sheet, product, F07b output)
 Retired: 07 53b1c7ca and 08 b9b03cb9 and 09 ab0da122 to the v3 column; 10 b1f63698 to the v2 column. Cards moved with them.
+
+## 09c (2026-09-23, replaces 09b on the same node 237ab201; 09b takes kept as versions, not approved)
+Producer: a close-up of the Moonshot product, not the laptop closing and the shutter closing together.
+Cost: 2 variations x 188 = 376. Prompt:
+TEE ONLY: the plain black t-shirt from the attached character sheet and nothing over it; the puffer jacket is NOT in the frame. A close-up photograph shot on an iPhone 16 Pro of the silver Moonshot pendant from the attached product sheet, WORN at upper chest over the black tee on its BLACK cord, the cord is black and never silver and runs up out of frame around the neck. The frame is tight, from the collarbone down to the sternum, the face out of frame. His right thumb rests on the face of the pendant having just slid the shutter shut: a flat shutter disc sits flush inside the polished ring where the lens was, no glass visible, the side button visible, nothing flipping up or sticking out. ONE hand only, his right; the left hand is out of frame. Behind and below him, soft and out of focus, the same small desk as the attached desk frame: the wooden desktop, the closed laptop lid, and the warm desk lamp on the right, late at night, the room otherwise dark. EXACTLY ONE person in the frame, no phone anywhere. Shallow focus on the closed shutter and the thumb, the tee's fabric weave sharp beside them, warm lamp light from the right with a soft highlight along the polished ring, true-to-life colour, real skin texture on the thumb, no beauty retouch, no grain. No text, no logos or brand marks anywhere, no on-screen graphics.
+

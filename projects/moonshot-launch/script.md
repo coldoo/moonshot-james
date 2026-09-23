@@ -16,7 +16,7 @@ script will also be shot for real: the frames are the blocking reference for the
 | 06b | insert | none | Close on the spoon, he tastes it, small nod. 1 to 2 seconds. NEW [v7] |
 | 07b | his desk, late, one lamp | "And the longer I wear it, the more it picks up." | Sitting back from the laptop, tired. To the lens. NEW frame [v7], replaces the bed |
 | 08b | same desk | "Why am I always still up at this hour?" | He looks at his phone. Answer shown. NEW frame [v7] |
-| 09b | same desk | "And when I want a moment to myself, one swipe." | Laptop shuts. Thumb closes the shutter, pendant still on him. NEW frame [v7] |
+| 09c | same desk | "And when I want a moment to myself, one swipe." | CLOSE-UP of the pendant on his chest, thumb closes the shutter. The laptop shutting is a beat before it in the shoot, not in the frame. NEW frame [v7, producer note 2026-09-23] |
 | 10b | same desk | "We're only making 200 of these for the founder batch. Come be one of the first. This is Moonshot." | To the lens, pendant in frame. On screen: $99, founder batch, full refund until it ships. No logo card. NEW frame [v7] |
 
 Frames that stand from earlier passes: H01, H02, 02b, 03, 04, 05, 06. Frames retired to the draft
@@ -30,3 +30,7 @@ Open: real-place photos for the plates were not received; plates generated, revi
 
 History: v2 street/door opener; v3 five redos; v4 hook; v5 cut 01 removed, 02b; v6 line edits on the
 canvas cards; v7 this.
+
+Picks 2026-09-23 [producer]: 03b v2 (shoot note: few or no background people at the real gathering),
+06b v1, 08b v2, 10b v1. 07b single take stands. 09b rejected: 09c is a close-up of the product only.
+
