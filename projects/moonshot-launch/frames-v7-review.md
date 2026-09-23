@@ -54,3 +54,6 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
 
 ## 08c · 2026-09-23 (run 5f90c63d, 2 renders, 376 credits; project total 11,656)
 - Both takes: phone held up in the right hand with its BACK to the lens, screen hidden, same desk, lamp right, laptop foreground. Near identical; v1 recommended and displayed. Replaces 08b.
+
+## H01b · 2026-09-23 (run 0873d460, 2 renders, 376 credits; project total 12,032)
+- Producer: H01 must show him holding the pendant like 02b. Both takes: kitchen, tee, front, chest up, thumb and index on the worn pendant tilted to the lens, black cord, print on the fridge behind. v1 shows the pendant a touch larger; recommended and displayed.

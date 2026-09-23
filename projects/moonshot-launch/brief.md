@@ -144,4 +144,5 @@ and each shows its approved variation. Draft columns stay to the right as histor
 Deliverables: v9 FINAL column on Melius canvas c53d2818 (x -3500), shot list doc
 https://claude.ai/code/artifact/2728eec8-717c-4cb0-bb97-76fc42d5a0a5, repo notes in projects/moonshot-launch/.
 Melius total 11,656 of 221,000. Higgsfield 0.
+- 2026-09-23 night: script v10 words (07, 08, 10). H01b regenerated with the pendant in hand, 376. Project Melius total: 12,032. Shot list doc restructured scene by scene (frame, words, cut).
 
