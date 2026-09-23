@@ -1,4 +1,4 @@
-# Moonshot Launch Preview · Script v4 (producer, 2026-09-22, night, hook added)
+# Moonshot Launch Preview · Script v5 (producer, 2026-09-23, cut 01 removed, 02 rebuilt)
 
 Presenter to camera, DSC shape. About 40 s spoken. START frames only in this pass; no video.
 
@@ -6,8 +6,8 @@ Presenter to camera, DSC shape. About 40 s spoken. START frames only in this pas
 |---|---|---|---|
 | H01 | his kitchen, day | "Hey Moonshot, what was everyone laughing at in this photo?" | HOOK. A Polaroid of him and his friends laughing is on the fridge. He stands looking at it, nostalgic; we see his face and the print; the pendant faces it too [v4] |
 | H02 | same | "That was 3 months ago. I don't remember any of that." | the answer lands as a card in the edit; he turns to the lens, deadpan. Second sentence kept for now, "we can always replace". Cut straight to 01 [v4] |
-| 01 | outside, street, day | "This is Moonshot. The best parts of your life happen away from a screen." | close-up of his chest; he lifts the pendant in his hand toward the lens, bringing the device out. No approach walk [v3] |
-| 02 | front door into hallway | "Moonshot sees and hears your day, so you can ask it anything about your life." | cut to him walking into a house, still talking |
+| 01 | REMOVED [v5] | | the chest close-up is out of the film; frame kept in the v3 draft column |
+| 02b | friend's home, evening, already at the gathering | "This is Moonshot. It sees and hears your day, so you can ask it anything about your life." | he comes in from the side, walking toward the kitchen, head and face in frame, talking to the lens, thumb and index holding the worn pendant to the lens. Not from the door [v5] |
 | 03 | insert | "One swipe and it's paying attention." | close-up: his thumb slides the pendant's shutter open, the lens uncovered |
 | 04 | social kitchen, people around, Jove cooking | "How are you making that?" | USE CASE 1. Dylan walks over to Jove at the stove. Jove keeps cooking, no real answer |
 | 05 | his own kitchen, alone, mid-cook | "Later, I ask it anything, and Moonshot already has the moment." | scene change. He is at his own stove |
@@ -23,6 +23,9 @@ Open: real-place photos for the plates were not received; plates generated, revi
 
 v3 changes [producer 2026-09-22, night]: cuts 01, 04 (Jove identity), 07, 08, 09. Cuts 02, 03, 05,
 06, 10 stand from v2.
+
+v5 [producer 2026-09-23]: cut 01 removed; cut 02 rebuilt as 02b, the opener at the gathering, with the
+merged line. Order: H01, H02, 02b, 03, 04, 05, 06, 07, 08, 09, 10.
 
 v4 [producer 2026-09-22, night]: hook H01, H02 added ahead of cut 01. Picks locked: F01 v2, F04 v1,
 F07 v2, F08 v1, F09 v1; F02, F03, F05, F06, F10 from v2.
