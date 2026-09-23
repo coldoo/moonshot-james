@@ -147,15 +147,22 @@
       "status": "APPROVED 2026-09-23 (producer)"
     },
     "F09c": {
-      "file": "frames/v7/F09c_v?.png",
+      "file": "frames/v7/F09c_v1.png",
       "node": "237ab201-aae3-4e49-b2a0-7624f25e6b6b",
-      "run": null,
-      "variation": null,
-      "status": "NOT RUN; prompt on the node, awaiting go (376 credits)"
+      "run": "6cdca3cc",
+      "variation": 1,
+      "status": "PENDING producer pick; agent recommends v1"
+    },
+    "F03c": {
+      "file": "frames/v7/F03c_v2.png",
+      "node": "02974c53-1fba-4d43-b44e-fa0966c14c5e",
+      "run": "6cdca3cc",
+      "variation": 2,
+      "status": "CANDIDATE to replace 03b (empty living room for the real shoot); agent recommends v2; producer to pick 03b or 03c"
     }
   },
   "spend": {
-    "melius_credits_total": 9024,
+    "melius_credits_total": 9776,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {

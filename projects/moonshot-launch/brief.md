@@ -126,4 +126,4 @@ and each shows its approved variation. Draft columns stay to the right as histor
 - Review in `frames-v7-review.md`. Recommended: 03b v2, 06b v1, 07b (single), 08b v2, 09b v1, 10b v1.
 - Routing: this is Moonshot video work and belongs in dylanpakd-cyber/moonshot-films-private on a
   james/ branch per ~/.claude/CLAUDE.md. No Films clone on this machine yet; producer to decide.
-
+- 2026-09-23 later: 09c (pendant close-up) and 03c (empty background) run, 752 credits. Project Melius total: 9,776.

@@ -30,3 +30,12 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
   the wardrobe. Prop-first and plate-first chaining is now the default for any run of same-room cuts.
 - Brand marks appear on generated laptops and phones even with "no logo" in the prompt. Retouch or plan
   the real prop.
+
+## 09c and 03c · 2026-09-23 (run 6cdca3cc, 4 renders, 752 credits; project total 9,776)
+- 09c (pendant close-up, one swipe): v1 fills the frame with the pendant, thumb on the closed disc, black
+  cord, desk and lamp soft behind. v2 is wider and the laptop mark shows. Recommend v1. Displayed on the
+  node.
+- 03c (03b with the living room empty): both take the same house and framing as 02b. v2 has the two
+  pendant lights and cabinets that match 02b and 04; v1 shows one light and the sofa. Recommend v2.
+  Displayed on the node (candidate slot to the right of 03b). If picked, 03c takes the 03b row and 03b
+  goes to the draft area; 03b stays approved as history.
