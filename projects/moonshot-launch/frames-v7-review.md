@@ -39,3 +39,8 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
   pendant lights and cabinets that match 02b and 04; v1 shows one light and the sofa. Recommend v2.
   Displayed on the node (candidate slot to the right of 03b). If picked, 03c takes the 03b row and 03b
   goes to the draft area; 03b stays approved as history.
+
+## 02c · 2026-09-23 (run 9a1a6030, 2 renders, 376 credits; project total 10,152)
+- Both takes: in through the open front door, camera inside, thumb and index on the pendant, black cord, warm interior.
+  v1 shows the kitchen and pendant lights ahead, which ties to 03c on the same axis; v2 is more entryway with coats.
+  Recommend v1, displayed. 02b retired to history right of the column.

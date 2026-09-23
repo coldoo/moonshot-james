@@ -135,4 +135,4 @@ and each shows its approved variation. Draft columns stay to the right as histor
   locations), the shot list with the approved frame per cut plus line, frame, camera, Dylan, movement, cut in
   and out, edit notes (three phone answers, one price block, no logo card), shoot order by location.
 - Frames embedded as 1280 px JPEGs uploaded to the doc's asset store (14, including the Polaroid prop).
-
+- 2026-09-23 evening: 02c (front door entry) run, 376 credits. Project Melius total: 10,152. Shot list trimmed to line/frame/movement.

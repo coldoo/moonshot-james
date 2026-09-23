@@ -101,7 +101,7 @@
       "node": "47dc70ba-c1bf-4a05-8231-8febf833d861",
       "run": "a9100c7f",
       "variation": 2,
-      "status": "PENDING producer pick; agent recommends v2 (black cord)"
+      "status": "APPROVED then REPLACED by 02c 2026-09-23 (front door entry); kept as history right of the column"
     },
     "F03b": {
       "file": "frames/v7/F03b_v2.png",
@@ -159,10 +159,17 @@
       "run": "6cdca3cc",
       "variation": 1,
       "status": "APPROVED 2026-09-23 (producer), v1. Replaces 03b in the film."
+    },
+    "F02c": {
+      "file": "frames/v7/F02c_v1.png",
+      "node": "3aa7cf68-ca9c-460d-a8a8-4767aac16428",
+      "run": "9a1a6030",
+      "variation": 1,
+      "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending."
     }
   },
   "spend": {
-    "melius_credits_total": 9776,
+    "melius_credits_total": 10152,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -173,7 +180,6 @@
     "rows_y": {
       "H01": 0,
       "H02": 665,
-      "F02b": 1330,
       "F03": 1995,
       "F04": 3325,
       "F05": 3990,
@@ -183,14 +189,15 @@
       "F08b": 6650,
       "F10b": 7980,
       "F03c": 2660,
-      "F09c": 7315
+      "F09c": 7315,
+      "F02c": 1330
     },
     "note": "Approved frame nodes were MOVED into this column (same node ids); their active version is the approved variation. Draft columns remain at x 3180 (v1), 5760 (v2), 7460 (v3), 8460 (hook)."
   },
   "film_order": [
     "H01",
     "H02",
-    "F02b",
+    "F02c",
     "F03",
     "F03c",
     "F04",
