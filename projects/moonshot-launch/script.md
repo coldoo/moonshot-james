@@ -1,4 +1,4 @@
-# Moonshot Launch Preview · Script v9 (producer, 2026-09-23 evening: claim first, proof, name; see cut-map-v9.md for the table of record)
+# Moonshot Launch Preview · Script v10 (producer, 2026-09-23 night: word changes on 07, 08, 10; see cut-map-v9.md for the table)
 
 Presenter to camera, DSC shape. About 45 s spoken. START frames only in this pass; no video. This
 script will also be shot for real: the frames are the blocking reference for the live shoot.
@@ -49,4 +49,11 @@ H02 the Polaroid question with the answer on the phone, H03 "No context, no setu
 04 Jove, 05 "Later, when I need it...", 06 with the answer on the phone, 07 to 10 at the desk (08 cuts
 to a phone close; 09 phone down, laptop shuts, shutter closed). Spoon insert dropped. The producer's
 own table is in cut-map-v9.md and is the script of record.
+
+v10 [producer 2026-09-23 night, words only, frames unchanged]:
+07 "It's not just remembering things. It's noticing patterns in my life I'm completely blind to."
+08 "What habit has been quietly eating my evenings this month?"
+10 "We're only making 200 units for the founder batch. Secure yours for $99, completely refundable until it ships. This is Moonshot."
+All other lines as v9. The price is now spoken in 10 (brand STOP block says no price in copy; producer's call, noted once).
+Shot list doc restructured to scene by scene: frame, words, cut. No camera-position, running-order or cuts tables.
 
