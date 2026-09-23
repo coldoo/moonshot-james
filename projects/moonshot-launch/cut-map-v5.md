@@ -22,3 +22,8 @@ A candid photograph shot on an iPhone 16 Pro of the man from the attached face l
 
 ## FINAL column rows after the restack (frames x -1240, cards x -1700)
 H01 0 · H02 665 · 02b 1330 · 03 1995 · 04 2660 · 05 3325 · 06 3990 · 07 4655 · 08 5320 · 09 5985 · 10 6650.
+
+## Canvas ids (02b, created 2026-09-23, NOT RUN)
+c02b b0529718-7066-4d60-bced-fa5968502e80 · F02b 47dc70ba-c1bf-4a05-8231-8febf833d861 (FINAL column row y 1330).
+Wired: Dylan face 365dea8a, Dylan sheet 088bbbd3, product 66174326, and the approved 04 frame 1b8ac8c4 as the location reference.
+Cut 01 node 9f7b2a4a and card 7acb391b returned to the v3 column (x 7460 / 7000, y 0). Old 02 node a3f78689 and card abf47332 returned to the v2 column (x 5760 / 5300, y 665).
