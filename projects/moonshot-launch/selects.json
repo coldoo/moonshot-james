@@ -115,7 +115,7 @@
       "node": "c4c2f684-10ce-4398-bddd-10eb910f7e3e",
       "run": "1dc575fc",
       "variation": 1,
-      "status": "APPROVED 2026-09-23 (producer)"
+      "status": "APPROVED then DROPPED in script v9 (no spoon insert); kept as history"
     },
     "F07b": {
       "file": "frames/v7/F07b_v1.png",
@@ -137,7 +137,7 @@
       "node": "237ab201-aae3-4e49-b2a0-7624f25e6b6b",
       "run": "1dc575fc",
       "variation": 1,
-      "status": "REJECTED 2026-09-23: producer wants a close-up of the product, not the laptop and the shutter together. Replaced by 09c on the same node (09b takes kept as versions)."
+      "status": "RESTORED as the 09 master frame in script v9 (phone down, laptop shuts, shutter closes); version ae953804 displayed. 09c close-up stays as the optional C3 insert (version a67687a6)."
     },
     "F10b": {
       "file": "frames/v7/F10b_v1.png",
@@ -166,10 +166,31 @@
       "run": "9a1a6030",
       "variation": 1,
       "status": "Displayed on the canvas; agent recommends v1 (kitchen and pendant lights visible, same axis as 03c). Producer pick pending."
+    },
+    "H01v9": {
+      "file": "frames/v9/H01_v1.png",
+      "node": "200d7e6b-87e4-4f28-8355-97b37423c3d6",
+      "run": "77d1d3d6",
+      "variation": 1,
+      "status": "Displayed; agent recommends v1 (flatter deadpan). Producer pick pending."
+    },
+    "PHk": {
+      "file": "frames/v9/PHk_v1.png",
+      "node": "b033463a-6dea-477a-982f-a32fd2ed69e1",
+      "run": "77d1d3d6",
+      "variation": 1,
+      "status": "Displayed; agent recommends v1 (screen angled to camera). Serves H02 and 06 answers."
+    },
+    "PHd": {
+      "file": "frames/v9/PHd_v2.png",
+      "node": "d2a23abf-5252-49d3-9c6f-fb8c67cbafed",
+      "run": "77d1d3d6",
+      "variation": 2,
+      "status": "Displayed; agent recommends v2 (screen faces camera). Serves the 08 answer."
     }
   },
   "spend": {
-    "melius_credits_total": 10152,
+    "melius_credits_total": 11280,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -208,5 +229,46 @@
     "F08b",
     "F09c",
     "F10b"
-  ]
+  ],
+  "film_order_v9": [
+    "H01v9",
+    "H01(now H02)",
+    "PHk",
+    "H02(now H03)",
+    "F02c(now 02b)",
+    "F03",
+    "F03c(now 03b)",
+    "F04",
+    "F05",
+    "F06",
+    "F07b(07)",
+    "F08b(08)",
+    "PHd",
+    "F09b(09 master)",
+    "F10b(10)"
+  ],
+  "canvas_final_column_v9": {
+    "header_x": -3960,
+    "prop_x": -4500,
+    "cards_x": -3960,
+    "frames_x": -3500,
+    "rows_y": {
+      "H01": 0,
+      "H02": 665,
+      "A3 phone kitchen": 1330,
+      "H03": 1995,
+      "02b": 2660,
+      "03": 3325,
+      "03b": 3990,
+      "04": 4655,
+      "05": 5320,
+      "06": 5985,
+      "07": 6650,
+      "08": 7315,
+      "C2 phone desk": 7980,
+      "09": 8645,
+      "10": 9310
+    },
+    "note": "v7 column at x -2300..-680 is history"
+  }
 }

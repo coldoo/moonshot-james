@@ -44,3 +44,10 @@ Files: frames/v7/F03b, F06b, F08b, F09b, F10b _v1,_v2, F07b_v1, sheet_v7_a.png, 
 - Both takes: in through the open front door, camera inside, thumb and index on the pendant, black cord, warm interior.
   v1 shows the kitchen and pendant lights ahead, which ties to 03c on the same axis; v2 is more entryway with coats.
   Recommend v1, displayed. 02b retired to history right of the column.
+
+## v9 · 2026-09-23 (run 77d1d3d6, 6 renders, 1,128 credits; project total 11,280)
+- H01 hook: both deadpan to lens at A1, tee, pendant centred, fridge and print behind. v1 flatter, v2 mid-word. Recommend v1.
+  Nit: the print on the fridge renders large; the real print is small.
+- Phone close, kitchen (A3): v1 angled to camera with the blank screen readable; v2 tighter. Recommend v1.
+- Phone close, desk (C2): v2 faces the camera squarely under the lamp; v1 angles away. Recommend v2.
+- 09 master restored to the two-hands take (laptop lid + shutter); the thumb close-up stays as the optional insert.
