@@ -107,3 +107,9 @@ F06, F10 from v2 (variation not stated, v1 recorded, swap on request). Recorded 
 Locked: no regeneration of these frames; a change means a new frame id. Next stage (END frames or video)
 not requested.
 
+## Canvas reorganised 2026-09-23 [producer request]
+FINAL column at the far left of canvas c53d2818 (prop x -2300, cards x -1700, frames x -1240), read top
+to bottom: H01, H02, 01..10, with the Polaroid prop beside H01. The approved frame nodes were moved there
+and each shows its approved variation. Draft columns stay to the right as history. Node ids and rows in
+`selects.json`. F05, F06, F10 recorded as v2 (the displayed variation) since no pick was stated.
+
