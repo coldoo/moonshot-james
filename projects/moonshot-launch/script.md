@@ -1,4 +1,4 @@
-# Moonshot Launch Preview · Script v8 (producer, 2026-09-23 evening: 02 starts at the front door)
+# Moonshot Launch Preview · Script v9 (producer, 2026-09-23 evening: claim first, proof, name; see cut-map-v9.md for the table of record)
 
 Presenter to camera, DSC shape. About 45 s spoken. START frames only in this pass; no video. This
 script will also be shot for real: the frames are the blocking reference for the live shoot.
@@ -41,4 +41,12 @@ Decisions: the fridge with the Polaroid is in Dylan's own kitchen (same as 05, 0
 dish with one visible added ingredient (fried rice + soy, or garlic butter noodles + chili flakes); the
 instant print can be any real photo of Dylan and friends printed at instant size, or a framed photo.
 Shot list trimmed to line, frame, movement per cut.
+
+v9 [producer 2026-09-23 evening]: the opening is rebuilt as claim, proof, punchline, name. H01 to lens
+("watching my life for three months... never had to tell it anything", pendant already on, no swipe),
+H02 the Polaroid question with the answer on the phone, H03 "No context, no setup. It already knew.",
+02b the door entry with the introduction line, 03 swipe insert, 03b "captures the best of your life",
+04 Jove, 05 "Later, when I need it...", 06 with the answer on the phone, 07 to 10 at the desk (08 cuts
+to a phone close; 09 phone down, laptop shuts, shutter closed). Spoon insert dropped. The producer's
+own table is in cut-map-v9.md and is the script of record.
 
