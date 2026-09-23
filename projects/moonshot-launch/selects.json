@@ -225,7 +225,7 @@
       "run": "0b4c0c1e",
       "variation": 2,
       "version_displayed": "83717586",
-      "status": "Replaces v9 04 (1b8ac8c4). v2 only: Jove at the real range, apron. v1 REJECTED (pan on the peninsula, copied the taped photo and shoes from the plate)."
+      "status": "REJECTED 2026-09-23 night (producer): the range head-on angle does not exist in the real galley kitchen. 04b drafted (node b89202f5), not run."
     },
     "F07_v11": {
       "file": "frames/v11/F07_v1.png",
@@ -258,6 +258,12 @@
       "variation": 1,
       "version_displayed": "f01075c5",
       "status": "Replaces 10b (f9f85225). Agent pick v1 (mug off the laptop, lamp side clear). Producer pick pending."
+    },
+    "F04b_v11": {
+      "file": null,
+      "node": "b89202f5-83ee-436e-87e6-d64f1f426a5b",
+      "run": null,
+      "status": "DRAFTED, NOT RUN. Same camera as 02b/03b behind the sink peninsula, turned right; Jove in profile at the range, Dylan on the fridge side. 376 credits if run at 2 variations."
     }
   },
   "spend": {

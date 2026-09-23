@@ -81,3 +81,12 @@ Canvas: the seven v11 nodes now sit in the FINAL column (x -3500) on their film 
 sit at x -6900 on the same rows. The v11 draft column at x -6200 is empty except its header card.
 Doc: Scene 2 and Scene 4 tables rebuilt with the v11 frames (rev 51). Scene 2 and 4 intros now state the one
 camera position per scene. The producer's own edit to the 07 line was kept.
+
+## Correction 2026-09-23 night [PRODUCER]: the 04 angle does not exist
+The v11 04 frame shows the range head-on with the fridge to its right. In the real room the range is on the
+SIDE wall of a narrow galley (fridge wall at the back, range wall on the right, sink peninsula in front), so a
+camera facing the range would be inside the wall. The only real angle on the range is the 02b/03b position
+behind the sink peninsula, turned right: Jove in right profile at the range, Dylan on the fridge side at his
+left shoulder, face three-quarter to camera. Redrafted as 04b (node in the v11 column, row y 1330), wired to
+plates P3 + P1, the v11 03b frame for the camera position, the locks and Jove. The v11 04 frame is rejected
+and will move to history when 04b is picked. Not run: 2 variations x 188 = 376 credits.
