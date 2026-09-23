@@ -225,7 +225,7 @@
       "run": "0b4c0c1e",
       "variation": 2,
       "version_displayed": "83717586",
-      "status": "REJECTED 2026-09-23 night (producer): the range head-on angle does not exist in the real galley kitchen. 04b drafted (node b89202f5), not run."
+      "status": "REJECTED 2026-09-23 night (producer): the range head-on angle does not exist in the real galley kitchen. 04b drafted (node b89202f5), not run. Moved to history at x -7600."
     },
     "F07_v11": {
       "file": "frames/v11/F07_v1.png",
@@ -260,14 +260,16 @@
       "status": "Replaces 10b (f9f85225). Agent pick v1 (mug off the laptop, lamp side clear). Producer pick pending."
     },
     "F04b_v11": {
-      "file": null,
+      "file": "frames/v11/F04b_v2.png",
       "node": "b89202f5-83ee-436e-87e6-d64f1f426a5b",
-      "run": null,
-      "status": "DRAFTED, NOT RUN. Same camera as 02b/03b behind the sink peninsula, turned right; Jove in profile at the range, Dylan on the fridge side. 376 credits if run at 2 variations."
+      "run": "37b2ae79",
+      "variation": 2,
+      "version_displayed": "d97edcd3",
+      "status": "Displayed. Real galley angle: camera behind the sink peninsula turned right, Jove in profile at the range, Dylan by the fridge. v2 holds the Jove lock; v1 REJECTED (Jove rendered as a different young man). Producer pick pending."
     }
   },
   "spend": {
-    "melius_credits_total": 14664,
+    "melius_credits_total": 15040,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -353,7 +355,7 @@
     "F02b_v11",
     "F03",
     "F03b_v11",
-    "F04_v11",
+    "F04b_v11",
     "F05",
     "F06",
     "F07_v11",

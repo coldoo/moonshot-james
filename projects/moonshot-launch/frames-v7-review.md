@@ -70,3 +70,9 @@ producer's photos (keypad door, dark cabinet and fridge, blue tile and range; bl
 - 10: both good. Pick v1 (mug off the laptop, lamp side clear for the text).
 Recurring: the laptop carries an Apple mark in most takes despite "no logo". Retouch if it matters; the real shoot will have a real laptop.
 Model note: with a real photo as a plate the model will copy its clutter (taped photo, shoes) unless the prompt removes it AND the pose ref is clean. Say what is NOT there.
+
+## 04b review 2026-09-23 night (run 37b2ae79, 2 renders, 376 credits)
+The galley geometry is right in both takes: fridge wall left, range on the right wall in profile, sink in the
+foreground, the same camera as 02b/03b turned right. v2 holds the Jove lock (grey tee, at the range in profile)
+and puts Dylan by the fridge with his face three-quarter to camera; the front door shows far left. v1 REJECTED:
+Jove came out as a different young man. Pick v2. Jove lock remains fragile (one miss in two).

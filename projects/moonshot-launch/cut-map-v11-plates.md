@@ -90,3 +90,5 @@ behind the sink peninsula, turned right: Jove in right profile at the range, Dyl
 left shoulder, face three-quarter to camera. Redrafted as 04b (node in the v11 column, row y 1330), wired to
 plates P3 + P1, the v11 03b frame for the camera position, the locks and Jove. The v11 04 frame is rejected
 and will move to history when 04b is picked. Not run: 2 variations x 188 = 376 credits.
+Run 37b2ae79: 04b v2 (version d97edcd3) displayed and moved into the FINAL row y 4655; v1 rejected (Jove identity
+lost). Rejected v11 04 node parked at x -7600. Project Melius total 15,040.
