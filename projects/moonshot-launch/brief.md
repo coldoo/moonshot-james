@@ -118,3 +118,12 @@ and each shows its approved variation. Draft columns stay to the right as histor
 - 02b run a9100c7f, 2 variations, no failures. Spend 376. Project Melius total: 6,956 of 221,000.
 - Review in `frames-v5-review.md`. Recommend v2 (black cord). Pick pending.
 
+## Status 2026-09-23 (afternoon): script v7, six new frames run
+- Script v7: hook, 02b, 03, NEW 03b, 04, 05, 06, NEW 06b, desk ending 07b to 10b (replaces bed and doorway).
+  Blocking notes per cut in `cut-map-v7.md` for the live shoot that follows.
+- One-pass chain run 1dc575fc: 07b once as the desk plate, five frames x 2. 11 renders, 2,068 credits,
+  no failures. Project Melius total: 9,024 of 221,000.
+- Review in `frames-v7-review.md`. Recommended: 03b v2, 06b v1, 07b (single), 08b v2, 09b v1, 10b v1.
+- Routing: this is Moonshot video work and belongs in dylanpakd-cyber/moonshot-films-private on a
+  james/ branch per ~/.claude/CLAUDE.md. No Films clone on this machine yet; producer to decide.
+

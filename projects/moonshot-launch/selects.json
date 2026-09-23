@@ -71,26 +71,30 @@
       "file": "frames/v3/F07_v2.png",
       "node": "53b1c7ca-203e-4cf2-8cb4-04856a6ace65",
       "run": "d7b2743a",
-      "variation": 2
+      "variation": 2,
+      "status": "RETIRED 2026-09-23 (script v7 moved the ending to the desk); approved frame kept in its draft column"
     },
     "F08": {
       "file": "frames/v3/F08_v1.png",
       "node": "b9b03cb9-4a1c-4b90-a148-533593c20bf7",
       "run": "d7b2743a",
-      "variation": 1
+      "variation": 1,
+      "status": "RETIRED 2026-09-23 (script v7 moved the ending to the desk); approved frame kept in its draft column"
     },
     "F09": {
       "file": "frames/v3/F09_v1.png",
       "node": "ab0da122-8b54-4fe4-ac72-5ce4fcd623ca",
       "run": "d7b2743a",
-      "variation": 1
+      "variation": 1,
+      "status": "RETIRED 2026-09-23 (script v7 moved the ending to the desk); approved frame kept in its draft column"
     },
     "F10": {
       "file": "frames/v2/F10_v2.png",
       "node": "b1f63698-679a-498b-b548-ecf4ee288599",
       "run": "c0e54635",
       "variation": 2,
-      "note": "stands from v2; variation not stated by the producer, the one displayed on the canvas (v2) recorded"
+      "note": "stands from v2; variation not stated by the producer, the one displayed on the canvas (v2) recorded",
+      "status": "RETIRED 2026-09-23 (script v7 moved the ending to the desk); approved frame kept in its draft column"
     },
     "F02b": {
       "file": "frames/v5/F02b_v2.png",
@@ -98,10 +102,53 @@
       "run": "a9100c7f",
       "variation": 2,
       "status": "PENDING producer pick; agent recommends v2 (black cord)"
+    },
+    "F03b": {
+      "file": "frames/v7/F03b_v2.png",
+      "node": "b57ef754-537d-436e-9e16-e9e39517fbd3",
+      "run": "1dc575fc",
+      "variation": 2,
+      "status": "PENDING producer pick; agent recommends v2"
+    },
+    "F06b": {
+      "file": "frames/v7/F06b_v1.png",
+      "node": "c4c2f684-10ce-4398-bddd-10eb910f7e3e",
+      "run": "1dc575fc",
+      "variation": 1,
+      "status": "PENDING producer pick; agent recommends v1 (pendant and wardrobe visible)"
+    },
+    "F07b": {
+      "file": "frames/v7/F07b_v1.png",
+      "node": "bc7afc16-6769-45e3-9bb9-039880f2d974",
+      "run": "1dc575fc",
+      "variation": 1,
+      "status": "PENDING; single take (desk plate), laptop mark to retouch",
+      "role": "desk plate for 08b, 09b, 10b"
+    },
+    "F08b": {
+      "file": "frames/v7/F08b_v2.png",
+      "node": "d2848aa0-b315-46f2-a4d1-a4244a640e7a",
+      "run": "1dc575fc",
+      "variation": 2,
+      "status": "PENDING producer pick; agent recommends v2 (lamp right, matches 07b)"
+    },
+    "F09b": {
+      "file": "frames/v7/F09b_v1.png",
+      "node": "237ab201-aae3-4e49-b2a0-7624f25e6b6b",
+      "run": "1dc575fc",
+      "variation": 1,
+      "status": "PENDING producer pick; agent recommends v1"
+    },
+    "F10b": {
+      "file": "frames/v7/F10b_v1.png",
+      "node": "f9f85225-4ea3-4748-9463-3dd1789b4b3c",
+      "run": "1dc575fc",
+      "variation": 1,
+      "status": "PENDING producer pick; agent recommends v1"
     }
   },
   "spend": {
-    "melius_credits_total": 6956,
+    "melius_credits_total": 9024,
     "higgsfield_credits_total": 0
   },
   "canvas_final_column": {
@@ -114,13 +161,15 @@
       "H02": 665,
       "F02b": 1330,
       "F03": 1995,
-      "F04": 2660,
-      "F05": 3325,
-      "F06": 3990,
-      "F07": 4655,
-      "F08": 5320,
-      "F09": 5985,
-      "F10": 6650
+      "F03b": 2660,
+      "F04": 3325,
+      "F05": 3990,
+      "F06": 4655,
+      "F06b": 5320,
+      "F07b": 5985,
+      "F08b": 6650,
+      "F09b": 7315,
+      "F10b": 7980
     },
     "note": "Approved frame nodes were MOVED into this column (same node ids); their active version is the approved variation. Draft columns remain at x 3180 (v1), 5760 (v2), 7460 (v3), 8460 (hook)."
   },
@@ -129,12 +178,14 @@
     "H02",
     "F02b",
     "F03",
+    "F03b",
     "F04",
     "F05",
     "F06",
-    "F07",
-    "F08",
-    "F09",
-    "F10"
+    "F06b",
+    "F07b",
+    "F08b",
+    "F09b",
+    "F10b"
   ]
 }
