@@ -130,7 +130,7 @@
       "node": "d2848aa0-b315-46f2-a4d1-a4244a640e7a",
       "run": "1dc575fc",
       "variation": 2,
-      "status": "APPROVED 2026-09-23 (producer)"
+      "status": "Stands for now; producer rule means it needs a regenerated frame with the phone back to the lens (08c drafted, node 98f4df6e, not run)."
     },
     "F09b": {
       "file": "frames/v7/F09b_v1.png",
@@ -179,14 +179,14 @@
       "node": "b033463a-6dea-477a-982f-a32fd2ed69e1",
       "run": "77d1d3d6",
       "variation": 1,
-      "status": "Displayed; agent recommends v1 (screen angled to camera). Serves H02 and 06 answers."
+      "status": "REJECTED 2026-09-23: the phone screen is never on camera (UI in post). Wasted, kept as history at x -2900."
     },
     "PHd": {
       "file": "frames/v9/PHd_v2.png",
       "node": "d2a23abf-5252-49d3-9c6f-fb8c67cbafed",
       "run": "77d1d3d6",
       "variation": 2,
-      "status": "Displayed; agent recommends v2 (screen faces camera). Serves the 08 answer."
+      "status": "REJECTED 2026-09-23: the phone screen is never on camera (UI in post). Wasted, kept as history at x -2900."
     }
   },
   "spend": {
@@ -233,7 +233,6 @@
   "film_order_v9": [
     "H01v9",
     "H01(now H02)",
-    "PHk",
     "H02(now H03)",
     "F02c(now 02b)",
     "F03",
@@ -242,8 +241,7 @@
     "F05",
     "F06",
     "F07b(07)",
-    "F08b(08)",
-    "PHd",
+    "F08b(08, to be replaced by 08c)",
     "F09b(09 master)",
     "F10b(10)"
   ],
