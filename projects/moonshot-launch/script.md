@@ -9,7 +9,7 @@ script will also be shot for real: the frames are the blocking reference for the
 | H02 | same kitchen | "That was 3 months ago. And I never told it a thing." | He turns to us, deadpan. |
 | 02b | friend's home, evening | "This is Moonshot, the first AI you never have to explain yourself to." | Arriving at the gathering, fingers on the pendant, face to the lens. |
 | 03 | insert | "One swipe up and it's paying attention." | Thumb slides the shutter open. |
-| 03b | continuing in | "It captures the best of your life and remembers the rest." | Walking toward the kitchen. NEW [v7] |
+| 03c | continuing in | "It captures the best of your life and remembers the rest." | Walking toward the kitchen, living room empty behind him. NEW [v7]; 03b (two extras) replaced 2026-09-23 |
 | 04 | Jove's kitchen | "How are you making that?" | Jove cooking, friends around. He leans in. Hard cut on the line. |
 | 05 | his own kitchen, day | "Later, I ask it anything, and Moonshot already has the moment." | Half a second of him at his stove, then the line. To the lens. |
 | 06 | same kitchen | "What did Jove add after this step?" | Looking at the pan. Answer on his phone. |
@@ -34,3 +34,4 @@ canvas cards; v7 this.
 Picks 2026-09-23 [producer]: 03b v2 (shoot note: few or no background people at the real gathering),
 06b v1, 08b v2, 10b v1. 07b single take stands. 09b rejected: 09c is a close-up of the product only.
 
+APPROVED START SET 2026-09-23 [producer]: H01, H02, 02b, 03, 03c v1, 04, 05, 06, 06b v1, 07b, 08b v2, 09c v1, 10b v1. Next: the shot list.
